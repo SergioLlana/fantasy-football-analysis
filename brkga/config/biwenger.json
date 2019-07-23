@@ -1,0 +1,10 @@
+{
+  "money": 60000000,
+  "num_forwards": 4,
+  "num_midfielders": 5,
+  "num_defenders": 4,
+  "num_goalkeepers": 1,
+  "player_blacklist": [
+    "Neto"
+  ]
+}
