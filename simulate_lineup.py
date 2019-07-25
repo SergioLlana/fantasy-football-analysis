@@ -11,7 +11,7 @@ def main():
     data["value"] = data.value.str.replace(',', '').astype(int)
 
     teams = []
-    num_simulations = 100
+    num_simulations = 1000
     for i in range(num_simulations):
         best_team_info = run_simulation(data, problem_config, config)
         lineup = [best_team_info["goalkeepers"], best_team_info["defenders"],
