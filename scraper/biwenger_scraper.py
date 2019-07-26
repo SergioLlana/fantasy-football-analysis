@@ -6,6 +6,8 @@ import time
 class BiwengerScraper(ABC):
     def __init__(self, config, headless):
         options = webdriver.ChromeOptions()
+        options.add_argument("--start-maximized")
+
         if headless:
             options.add_argument('headless')
 

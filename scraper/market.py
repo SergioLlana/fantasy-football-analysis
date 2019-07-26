@@ -71,7 +71,7 @@ class MarketScraper(BiwengerScraper):
 
                     logging.debug(player_info)
 
-                    #  Close player's view
+                    # Close player's view
                     self.click(self.driver.find_element_by_xpath("//i[@title='Close']"))
 
                 except (NoSuchElementException, ElementNotInteractableException):

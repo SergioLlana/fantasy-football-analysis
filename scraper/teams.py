@@ -1,7 +1,6 @@
 from scraper.biwenger_scraper import BiwengerScraper
 
 import logging
-import time
 
 
 class TeamScraper(BiwengerScraper):
@@ -25,9 +24,9 @@ class TeamScraper(BiwengerScraper):
             self.click(user.find_element_by_xpath(".//h3/a"))
 
             # Get user's market value, position and team
-            stats = self.driver.find_elements_by_xpath(".//div[@class='stat']/span")
-            user_info["points"] = stats[0].text
-            user_info["value"] = stats[1].text
+            stats = self.driver.find_elements_by_xpath("//div[@class='body']/div[@class='stats']//span")
+            user_info["points"] = stats[4].text
+            user_info["value"] = stats[5].text
 
             # Get user's players
             players = self.driver.find_elements_by_tag_name("player-card")
@@ -43,7 +42,7 @@ class TeamScraper(BiwengerScraper):
 
             logging.debug(user_info)
 
-            #  Close player's view
+            # Close user's view
             self.click(self.driver.find_element_by_xpath("//i[@title='Close']"))
 
         logging.info("Team scraper finished")
