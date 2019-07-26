@@ -1,6 +1,6 @@
 from scraper.biwenger_scraper import BiwengerScraper
 
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, ElementNotInteractableException
 from selenium.webdriver.support.ui import Select
 import logging
 import time
@@ -18,8 +18,7 @@ class MarketScraper(BiwengerScraper):
         self.choose_league(self.league_index)
 
         # Go to players view
-        self.driver.find_element_by_link_text('Players').click()
-        time.sleep(1)
+        self.click(self.driver.find_element_by_link_text('Players'))
 
         # Iterate pagination
         current_page = 1
@@ -40,8 +39,7 @@ class MarketScraper(BiwengerScraper):
                 }
 
                 # Go to player's view
-                player.find_element_by_xpath(".//h3[@itemprop='name']/a").click()
-                time.sleep(1)
+                self.click(player.find_element_by_xpath(".//h3[@itemprop='name']/a"))
 
                 # Get player's market value, position and team
                 player_info["value"] = self.driver.find_element_by_xpath("//span[@itemprop='netWorth']").text
@@ -58,11 +56,11 @@ class MarketScraper(BiwengerScraper):
                     selects = self.driver.find_elements_by_xpath('//player-detail-points/p/select')
                     seasons = Select(selects[0])
                     seasons.select_by_visible_text('2018/2019 season')
-                    time.sleep(1)
+                    time.sleep(2)
 
                     seasons = Select(selects[1])
                     seasons.select_by_visible_text('AS.com and SofaScore average')
-                    time.sleep(1)
+                    time.sleep(2)
 
                     stat_divs = self.driver.find_elements_by_xpath("//div[@class='stat main']")
                     player_info["points"] = stat_divs[0].find_element_by_tag_name("span").text
@@ -73,7 +71,10 @@ class MarketScraper(BiwengerScraper):
 
                     logging.debug(player_info)
 
-                except NoSuchElementException:
+                    #  Close player's view
+                    self.click(self.driver.find_element_by_xpath("//i[@title='Close']"))
+
+                except (NoSuchElementException, ElementNotInteractableException):
                     logging.info("Blacklisted because of max. requets")
                     logging.info("Current page: {0}".format(current_page))
                     break
@@ -83,8 +84,7 @@ class MarketScraper(BiwengerScraper):
             # Click on next page button if available, otherwise end loop
             next_page_button = self.driver.find_elements_by_xpath("//ul[@class='pagination']/li")[-2]
             if next_page_button.is_enabled():
-                next_page_button.click()
-                time.sleep(1)
+                self.click(next_page_button)
             else:
-                logging.info("Market scraper finished".format(current_page))
+                logging.info("Market scraper finished")
                 break

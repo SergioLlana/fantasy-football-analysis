@@ -13,7 +13,7 @@ class BiwengerScraper(ABC):
         self.config = config
 
     @staticmethod
-    def click(element, index=0, wait=1):
+    def click(element, index=0, wait=2):
         if isinstance(element, list):
             element[index].click()
         else:
@@ -33,11 +33,11 @@ class BiwengerScraper(ABC):
         password.send_keys(self.config["password"])
 
         # Submit form
-        self.click(self.driver.find_element_by_tag_name('button'), wait=3)
+        self.click(self.driver.find_element_by_tag_name('button'), wait=5)
 
     def choose_league(self, league_index):
-        self.click(self.driver.find_element_by_id("menuToggle"))
-        self.click(self.driver.find_elements_by_class_name("league"), index=league_index-1)
+        self.click(self.driver.find_element_by_id("menuToggle"), wait=3)
+        self.click(self.driver.find_elements_by_xpath("//a[@class='league']/img"), index=league_index-1)
 
     @abstractmethod
     def scrape(self):

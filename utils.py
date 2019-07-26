@@ -26,7 +26,7 @@ def write_csv(path, content):
 
 def parse_market_scraper_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-b', '--headless', dest='headless', help='Headless', action='store_true', default=True)
+    parser.add_argument('-b', '--headless', dest='headless', help='Headless', action='store_true', default=False)
     parser.add_argument('-l', '--league_index', dest='league_index', help='League index', default="1")
     parser.add_argument('-p', '--start_page', dest='start_page', help='Start page', default="1")
 
@@ -36,7 +36,7 @@ def parse_market_scraper_args():
 
 def parse_team_scraper_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-b', '--headless', dest='headless', help='Headless', action='store_true', default=True)
+    parser.add_argument('-b', '--headless', dest='headless', help='Headless', action='store_true', default=False)
     parser.add_argument('-l', '--league_index', dest='league_index', help='League index', default="1")
 
     args = parser.parse_args(sys.argv[1:])

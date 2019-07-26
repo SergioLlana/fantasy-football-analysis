@@ -1,8 +1,6 @@
 {
   "chrome_path" : "/usr/local/bin/chromedriver",
   "login_endpoint": "https://biwenger.as.com/login",
-  "teams_endpoint": "https://biwenger.as.com/league",
-  "players_endpoint": "https://biwenger.as.com/players",
   "email": "",
   "password": ""
 }

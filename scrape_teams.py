@@ -1,5 +1,5 @@
 from utils import parse_team_scraper_args, read_json
-from scraper.team import TeamScraper
+from scraper.teams import TeamScraper
 import logging
 
 
@@ -10,7 +10,7 @@ def scrape(args):
 
 
 if __name__ == "__main__":
-    logging.basicConfig(level="DEBUG", format="%(message)s", filename="data/biwenger.log")
+    logging.basicConfig(level="DEBUG", format="%(message)s", filename="data/ranking.log")
     logging.getLogger('selenium').setLevel(logging.CRITICAL)
     logging.getLogger("urllib3").setLevel(logging.CRITICAL)
 
