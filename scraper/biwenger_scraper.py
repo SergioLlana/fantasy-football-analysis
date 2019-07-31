@@ -38,8 +38,9 @@ class BiwengerScraper(ABC):
         self.click(self.driver.find_element_by_tag_name('button'), wait=5)
 
     def choose_league(self, league_index):
-        self.click(self.driver.find_element_by_id("menuToggle"), wait=3)
-        self.click(self.driver.find_elements_by_xpath("//a[@class='league']/img"), index=league_index-1)
+        if league_index > 1:
+            self.click(self.driver.find_element_by_id("menuToggle"), wait=3)
+            self.click(self.driver.find_elements_by_xpath("//a[@class='league']"), index=league_index-2)
 
     @abstractmethod
     def scrape(self):

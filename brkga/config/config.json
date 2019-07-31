@@ -2,6 +2,6 @@
   "inheritance_prob": 0.05,
   "num_individuals": 50,
   "num_generations": 50,
-  "elite_prop": 0.75,
+  "elite_prop": 0.7,
   "mutant_prop": 0.2
 }

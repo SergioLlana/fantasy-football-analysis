@@ -5,6 +5,6 @@
   "num_defenders": 4,
   "num_goalkeepers": 1,
   "player_blacklist": [
-    "Neto"
+    "Neto", "Coutinho", "Joaquín", "Bale",
   ]
 }

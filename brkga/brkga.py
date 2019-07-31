@@ -46,6 +46,6 @@ class BRKGA:
 
         return crossover
 
-    def best_individual(self, population):
+    def best_individuals(self, population, k=1):
         sorted_individuals = sorted(population, key=lambda x: x.fitness, reverse=True)
-        return sorted_individuals[0]
+        return sorted_individuals[:k]

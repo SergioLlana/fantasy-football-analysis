@@ -2,7 +2,7 @@ from brkga.brkga import BRKGA
 import math
 
 
-def run_simulation(players_df, lineup_config, brkga_config):
+def run_simulation(players_df, lineup_config, brkga_config, num_selected_lineups):
     problem = Problem(lineup_config, players_df)
     brkga = BRKGA(brkga_config)
     decoder = Decoder(problem)
@@ -18,30 +18,34 @@ def run_simulation(players_df, lineup_config, brkga_config):
         population = elite + crossover + mutants
 
     population = decoder.decode(population)
-    best_individual = brkga.best_individual(population)
+    best_individuals = brkga.best_individuals(population, num_selected_lineups)
 
-    selected_players = players_df.loc[players_df.index.isin(best_individual.solution.selected_players)]
-    goalkeepers = selected_players.loc[selected_players["position"] == "Goalkeeper"]
-    defenders = selected_players.loc[selected_players["position"] == "Defender"]
-    midfielders = selected_players.loc[selected_players["position"] == "Midfielder"]
-    forwards = selected_players.loc[selected_players["position"] == "Forward"]
+    result = []
+    for individual in best_individuals:
+        selected_players = players_df.loc[players_df.index.isin(individual.solution.selected_players)]
+        goalkeepers = selected_players.loc[selected_players["position"] == "Goalkeeper"]
+        defenders = selected_players.loc[selected_players["position"] == "Defender"]
+        midfielders = selected_players.loc[selected_players["position"] == "Midfielder"]
+        forwards = selected_players.loc[selected_players["position"] == "Forward"]
 
-    return {
-        "goalkeepers": goalkeepers.name.tolist(),
-        "goalkeeper_points": goalkeepers.points.tolist(),
-        "goalkeeper_values": goalkeepers.value.tolist(),
-        "defenders": defenders.name.tolist(),
-        "defender_points": defenders.points.tolist(),
-        "defender_values": defenders.value.tolist(),
-        "midfielders": midfielders.name.tolist(),
-        "midfielder_points": midfielders.points.tolist(),
-        "midfielder_values": midfielders.value.tolist(),
-        "forwards": forwards.name.tolist(),
-        "forward_points": forwards.points.tolist(),
-        "forward_values": forwards.value.tolist(),
-        "total_value": selected_players.value.sum(),
-        "total_points": best_individual.fitness
-    }
+        result.append({
+            "goalkeepers": goalkeepers.name.tolist(),
+            "goalkeeper_points": goalkeepers.points.tolist(),
+            "goalkeeper_values": goalkeepers.value.tolist(),
+            "defenders": defenders.name.tolist(),
+            "defender_points": defenders.points.tolist(),
+            "defender_values": defenders.value.tolist(),
+            "midfielders": midfielders.name.tolist(),
+            "midfielder_points": midfielders.points.tolist(),
+            "midfielder_values": midfielders.value.tolist(),
+            "forwards": forwards.name.tolist(),
+            "forward_points": forwards.points.tolist(),
+            "forward_values": forwards.value.tolist(),
+            "total_value": selected_players.value.sum(),
+            "total_points": individual.fitness
+        })
+
+    return result
 
 
 class Problem(object):

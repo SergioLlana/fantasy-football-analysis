@@ -31,13 +31,16 @@ class TeamScraper(BiwengerScraper):
             # Get user's players
             players = self.driver.find_elements_by_tag_name("player-card")
 
+            increments = []
             player_names = []
             purcharses_info = []
             for player in players:
+                increments.append(player.find_element_by_xpath(".//increment").text)
                 purcharses_info.append(player.find_element_by_xpath(".//player-owner/span").text)
                 player_names.append(player.find_element_by_xpath(".//h3[@itemprop='name']/a").text)
 
             user_info["purchase_info"] = purcharses_info
+            user_info["increments"] = increments
             user_info["players"] = player_names
 
             logging.debug(user_info)
