@@ -1,274 +1,314 @@
-,name,team,position,value,points,games,goals,cards
-0,Messi,Barcelona,Forward,22820000,428,34,36,3
-1,Hazard,Real Madrid,Forward,16570000,0,0,0,0
-2,Iago Aspas,Celta,Forward,14710000,246,27,20,5
-3,Luis Suárez,Barcelona,Forward,11760000,262,33,21,5
-4,Griezmann,Barcelona,Forward,11710000,244,37,15,5
-5,Parejo,Valencia,Midfielder,11180000,255,36,9,6
-6,Benzema,Real Madrid,Forward,10920000,263,36,21,1
-7,Borja Iglesias,Espanyol,Forward,9850000,239,37,17,5
-8,Morales,Levante,Midfielder,9720000,221,37,12,7
-9,Oyarzabal,Real Sociedad,Forward,8520000,210,37,13,2
-10,Piqué,Barcelona,Defender,8500000,227,35,4,6
-11,Guedes,Valencia,Midfielder,8220000,144,25,5,2
-12,Rodrigo,Valencia,Forward,8210000,188,33,8,5
-13,Frenkie de Jong,Barcelona,Midfielder,7730000,0,0,0,0
-14,Williams,Athletic,Forward,7720000,209,38,13,3
-15,Ben Yedder,Sevilla,Forward,7630000,246,35,18,4
-16,João Félix,Atlético,Forward,7530000,0,0,0,0
-17,Vinícius,Real Madrid,Forward,7320000,87,18,2,0
-18,Jordi Alba,Barcelona,Defender,7260000,200,36,2,6
-19,Canales,Betis,Midfielder,7210000,214,32,7,7
-20,Morata,Atlético,Forward,7010000,87,15,6,5
-21,Cazorla,Villarreal,Midfielder,6940000,215,35,4,2
-22,Luka Jović,Real Madrid,Forward,6940000,0,0,0,0
-23,Oblak,Atlético,Goalkeeper,6860000,196,37,0,0
-24,Maxi Gómez,Valencia,Forward,6810000,195,35,13,6
-25,Jaime Mata,Getafe,Forward,6770000,209,34,14,10
-26,Jorge Molina,Getafe,Forward,6490000,244,38,14,2
-27,Jesús Navas,Sevilla,Defender,6460000,193,32,1,8
-28,Modric,Real Madrid,Midfielder,6310000,163,34,3,6
-29,Hermoso,Atlético,Defender,5810000,178,32,3,7
-30,Nabil Fekir,Betis,Midfielder,5600000,0,0,0,0
-31,Rakitic,Barcelona,Midfielder,5580000,195,34,3,7
-32,Portu,Real Sociedad,Forward,5470000,166,34,9,3
-33,Sergio Ramos,Real Madrid,Defender,5440000,151,28,6,7
-34,Ter Stegen,Barcelona,Goalkeeper,5390000,167,35,0,0
-35,Willian José,Real Sociedad,Forward,5380000,165,31,11,6
-36,Lo Celso,Betis,Midfielder,5270000,184,32,9,5
-37,Chukwueze,Villarreal,Midfielder,5240000,138,26,5,2
-38,Koke,Atlético,Midfielder,4980000,166,30,3,10
-39,Raúl García,Athletic,Midfielder,4900000,178,33,9,13
-40,Jordan,Sevilla,Midfielder,4850000,201,36,4,10
-41,Gayà,Valencia,Defender,4560000,169,35,1,10
-42,Santi Mina,Celta,Forward,4430000,136,30,7,4
-43,Courtois,Real Madrid,Goalkeeper,4390000,114,27,0,2
-44,James Rodríguez,Real Madrid,Midfielder,4350000,,,,
-45,Campaña,Levante,Midfielder,4240000,194,36,4,12
-46,Dembélé,Barcelona,Forward,4200000,179,29,8,1
-47,Luuk de Jong,Sevilla,Forward,4200000,0,0,0,0
-48,Muniain,Athletic,Midfielder,4190000,162,34,7,7
-49,Trippier,Atlético,Defender,4180000,0,0,0,0
-50,Carvajal,Real Madrid,Defender,4150000,127,24,1,10
-51,André Zambo,Villarreal,Midfielder,4150000,0,0,0,0
-52,Kroos,Real Madrid,Midfielder,4020000,138,28,0,2
-53,Ezequiel Ávila,Osasuna,Forward,4010000,179,34,10,12
-54,Darder,Espanyol,Midfielder,3980000,171,34,4,8
-55,Orellana,Eibar,Midfielder,3960000,153,33,3,4
-56,Pacheco,Alavés,Goalkeeper,3910000,173,35,0,3
-57,Saúl,Atlético,Midfielder,3890000,154,33,4,10
-58,Cillessen,Valencia,Goalkeeper,3840000,8,3,0,0
-59,Enric Gallego,Getafe,Forward,3830000,106,19,5,4
-60,Gerard Moreno,Villarreal,Forward,3800000,157,35,8,3
-61,Marcos Llorente,Atlético,Midfielder,3760000,27,7,0,1
-62,Marc Roca,Espanyol,Midfielder,3760000,173,35,1,9
-63,Ekambi,Villarreal,Forward,3750000,169,34,10,5
-64,Busquets,Barcelona,Midfielder,3730000,149,35,0,10
-65,David Soria,Getafe,Goalkeeper,3690000,178,37,0,0
-66,Illarramendi,Real Sociedad,Midfielder,3650000,108,23,1,8
-67,Denis Suárez,Celta,Midfielder,3600000,6,2,0,0
-68,Giménez,Atlético,Defender,3590000,111,21,0,5
-69,Marcelo,Real Madrid,Defender,3570000,79,23,2,6
-70,Varane,Real Madrid,Defender,3560000,122,32,2,1
-71,Carlos Soler,Valencia,Midfielder,3520000,127,31,2,9
-72,Cucurella,Getafe,Midfielder,3480000,140,31,1,6
-73,Brais Méndez,Celta,Midfielder,3430000,154,31,6,5
-74,Iñigo Martínez,Athletic,Defender,3410000,133,33,0,12
-75,Ödegaard,Real Sociedad,Midfielder,3410000,,,,
-76,Laguardia,Alavés,Defender,3390000,170,36,1,12
-77,Lenglet,Barcelona,Defender,3370000,115,23,1,9
-78,Lucas Pérez,Alavés,Forward,3360000,,,,
-79,Kondogbia,Valencia,Midfielder,3350000,93,19,1,1
-80,Sergi Enrich,Eibar,Forward,3320000,172,35,7,4
-81,Melendo,Espanyol,Midfielder,3320000,150,32,0,3
-82,Alcaraz,Valladolid,Midfielder,3320000,176,34,3,13
-83,Junior Firpo,Betis,Defender,3320000,118,24,3,7
-84,Diego Costa,Atlético,Forward,3310000,39,16,2,5
-85,Sergi Roberto,Barcelona,Defender,3300000,123,29,0,3
-86,Wu Lei,Espanyol,Forward,3300000,76,16,3,1
-87,Bartra,Betis,Defender,3290000,130,33,1,3
-88,Djené,Getafe,Defender,3290000,145,34,0,14
-89,Juanmi,Betis,Forward,3280000,110,30,5,5
-90,Isco,Real Madrid,Midfielder,3280000,100,27,3,3
-91,En-Nesyri,Leganés,Forward,3280000,161,31,9,7
-92,Ángel Rodríguez,Getafe,Forward,3280000,172,37,8,4
-93,Lucas Ocampos,Sevilla,Forward,3270000,0,0,0,0
-94,Arthur,Barcelona,Midfielder,3260000,107,27,0,2
-95,Casemiro,Real Madrid,Midfielder,3240000,136,29,3,7
-96,Cote,Eibar,Defender,3230000,179,35,1,9
-97,Vaclík,Sevilla,Goalkeeper,3230000,128,33,0,1
-98,Gameiro,Valencia,Forward,3220000,136,33,6,1
-99,Lemar,Atlético,Midfielder,3220000,118,31,3,4
-100,Bardhi,Levante,Midfielder,3210000,150,36,3,6
-101,Hugo Mallo,Celta,Defender,3200000,154,35,1,11
-102,Asenjo,Villarreal,Goalkeeper,3150000,157,32,0,0
-103,Diego López,Espanyol,Goalkeeper,3150000,160,38,0,1
-104,Munir,Sevilla,Forward,3140000,104,23,6,2
-105,Masip,Valladolid,Goalkeeper,3120000,150,35,0,1
-106,Garay,Valencia,Defender,3110000,124,24,2,4
-107,Héctor Herrera,Atlético,Midfielder,3110000,0,0,0,0
-108,Calero,Valladolid,Defender,3100000,166,36,1,7
-109,Mikel Merino,Real Sociedad,Midfielder,3080000,129,29,3,10
-110,Rochina,Levante,Midfielder,3070000,140,27,4,13
-111,Reguilón,Sevilla,Defender,3070000,81,14,0,3
-112,Banega,Sevilla,Midfielder,3060000,156,32,3,18
-113,Roberto Torres,Osasuna,Midfielder,3060000,,,,
-114,Coutinho,Barcelona,Midfielder,3050000,164,34,5,2
-115,Lago Junior,Mallorca,Forward,3050000,0,0,0,0
-116,Siovas,Leganés,Defender,3030000,158,34,1,5
-117,Gabriel Paulista,Valencia,Defender,3020000,134,30,0,6
-118,Dabbur,Sevilla,Forward,3020000,0,0,0,0
-119,Wass,Valencia,Defender,2990000,135,32,1,4
-120,Tello,Betis,Midfielder,2900000,156,29,4,4
-121,Januzaj,Real Sociedad,Midfielder,2860000,105,20,1,1
-122,Cabrera,Getafe,Defender,2840000,153,32,2,11
-123,Joaquín,Betis,Midfielder,2790000,175,30,6,5
-124,Franco Vázquez,Sevilla,Midfielder,2790000,137,34,3,9
-125,Matías Vargas,Espanyol,Forward,2740000,0,0,0,0
-126,Pedrosa,Espanyol,Defender,2730000,53,12,1,1
-127,Pedro León,Eibar,Midfielder,2720000,26,9,1,0
-128,Rubén Peña,Villarreal,Defender,2700000,174,31,1,4
-129,Damián Suárez,Getafe,Defender,2690000,152,36,0,12
-130,Charles,Eibar,Forward,2620000,185,34,14,4
-131,Pedraza,Betis,Defender,2610000,131,34,3,3
-132,Dmitrovic,Eibar,Goalkeeper,2610000,106,24,0,3
-133,Thomas,Atlético,Midfielder,2580000,152,32,3,9
-134,Óscar Rodríguez,Leganés,Midfielder,2580000,148,31,4,5
-135,Yuri,Athletic,Defender,2570000,148,35,2,10
-136,William Carvalho,Betis,Midfielder,2560000,125,30,0,7
-137,Mandi,Betis,Defender,2560000,158,35,1,10
-138,Cuéllar,Leganés,Goalkeeper,2540000,148,34,0,5
-139,Vidal,Barcelona,Midfielder,2530000,174,33,3,7
-140,Maksimovic,Getafe,Midfielder,2510000,155,36,1,5
-141,Ferland Mendy,Real Madrid,Defender,2450000,0,0,0,0
-142,Felipe Monteiro,Atlético,Defender,2430000,0,0,0,0
-143,Nacho Martínez,Valladolid,Defender,2410000,166,35,1,10
-144,Iborra,Villarreal,Midfielder,2400000,84,19,3,7
-145,Pere Pons,Alavés,Midfielder,2370000,118,34,1,4
-146,Renan Lodi,Atlético,Defender,2340000,0,0,0,0
-147,Arambarri,Getafe,Midfielder,2320000,138,33,1,8
-148,Rubén García,Osasuna,Midfielder,2260000,,,,
-149,Éder Militão,Real Madrid,Defender,2260000,0,0,0,0
-150,Raúl Albiol,Villarreal,Defender,2250000,0,0,0,0
-151,Rulli,Real Sociedad,Goalkeeper,2210000,117,27,0,3
-152,Jonathan Silva,Leganés,Defender,2190000,150,30,3,9
-153,Yeray,Athletic,Defender,2150000,120,30,0,10
-154,Miramón,Levante,Defender,2150000,143,30,1,5
-155,Ante Budimir,Mallorca,Forward,2150000,0,0,0,0
-156,Coquelin,Valencia,Midfielder,2130000,123,26,0,5
-157,Ibai Gómez,Athletic,Midfielder,2100000,131,32,3,0
-158,Roger,Levante,Forward,2090000,155,31,13,4
-159,Alexander Isak,Real Sociedad,Forward,2080000,0,0,0,0
-160,Nelson Semedo,Barcelona,Defender,2050000,103,26,1,4
-161,Diego Llorente,Real Sociedad,Defender,1970000,94,21,0,5
-162,Umtiti,Barcelona,Defender,1970000,52,14,0,4
-163,Funes Mori,Villarreal,Defender,1970000,133,31,2,14
-164,Sergi Guardiola,Valladolid,Forward,1960000,82,20,3,0
-165,Sandro,Valladolid,Forward,1950000,74,24,0,4
-166,Bernardo,Espanyol,Defender,1950000,124,31,1,6
-167,Michel Herrero,Valladolid,Midfielder,1930000,151,35,1,9
-168,Salva Sevilla,Mallorca,Midfielder,1930000,,,,
-169,Tomás Pina,Alavés,Midfielder,1830000,125,28,2,13
-170,Vadillo,Granada,Midfielder,1820000,,,,
-171,Kiko Olivas,Valladolid,Defender,1820000,136,35,0,6
-172,Asensio,Real Madrid,Forward,1740000,117,30,1,3
-173,Maripán,Alavés,Defender,1740000,133,23,2,5
-174,Granero,Espanyol,Midfielder,1720000,133,28,3,10
-175,Rodrygo Goes,Real Madrid,Forward,1710000,0,0,0,0
-176,Bacca,Villarreal,Forward,1700000,118,33,6,3
-177,Rafinha,Barcelona,Midfielder,1670000,13,5,0,1
-178,Óliver Torres,Sevilla,Midfielder,1670000,,,,
-179,Escalante,Eibar,Midfielder,1670000,133,32,4,6
-180,Rubén Pérez,Leganés,Midfielder,1660000,127,31,0,8
-181,Soldado,Granada,Forward,1660000,,,,
-182,Rui Silva,Granada,Goalkeeper,1650000,0,0,0,0
-183,Diego Carlos,Sevilla,Defender,1640000,0,0,0,0
-184,Araujo,Celta,Defender,1630000,141,32,3,3
-185,Jules Koundé,Sevilla,Defender,1630000,0,0,0,0
-186,Trigueros,Villarreal,Midfielder,1610000,80,24,0,3
-187,Aitor Fernández,Levante,Goalkeeper,1590000,70,16,0,0
-188,Sergio León,Levante,Forward,1540000,34,16,0,1
-189,Fran Mérida,Osasuna,Midfielder,1520000,,,,
-190,Herrerín,Athletic,Goalkeeper,1510000,94,31,0,1
-191,Vezo,Levante,Defender,1500000,90,19,2,6
-192,Inui,Eibar,Midfielder,1500000,72,20,2,0
-193,Montoro,Granada,Midfielder,1490000,,,,
-194,Guardado,Betis,Midfielder,1490000,113,31,0,8
-195,Rubén Blanco,Celta,Goalkeeper,1460000,93,25,0,2
-196,Zaldua,Real Sociedad,Defender,1460000,112,26,1,7
-197,Lobotka,Celta,Midfielder,1460000,108,31,0,1
-198,Brahim Díaz,Real Madrid,Forward,1450000,38,9,1,0
-199,Enes Ünal,Valladolid,Forward,1440000,134,33,6,7
-200,Carriço,Sevilla,Defender,1430000,125,24,1,10
-201,Antonio Puertas,Granada,Midfielder,1420000,0,0,0,0
-202,Aritz Elustondo,Real Sociedad,Defender,1390000,117,27,1,5
-203,Loren,Betis,Forward,1390000,126,33,6,3
-204,Coke,Levante,Defender,1370000,109,27,4,4
-205,Braithwaite,Leganés,Forward,1370000,90,19,4,5
-206,Toni Villa,Valladolid,Midfielder,1370000,109,26,2,3
-207,Bale,Real Madrid,Forward,1310000,126,29,8,4
-208,Manolo Reina,Mallorca,Goalkeeper,1300000,0,0,0,0
-209,Alberto Moreno,Villarreal,Defender,1290000,0,0,0,0
-210,Óscar Plano,Valladolid,Forward,1270000,140,33,3,8
-211,Darwin Machís,Granada,Forward,1260000,,,,
-212,Naldo,Espanyol,Defender,1250000,86,16,1,3
-213,Rosales,Leganés,Defender,1240000,105,21,3,2
-214,Zubeldia,Real Sociedad,Midfielder,1230000,119,33,0,7
-215,Dani Rodríguez,Mallorca,Midfielder,1230000,0,0,0,0
-222,Juan Villar,Osasuna,Forward,1230000,0,0,0,0
-223,Fede Vico,Granada,Midfielder,1210000,,,,
-224,Mayoral,Levante,Forward,1200000,99,29,3,1
-225,Dani García,Athletic,Midfielder,1190000,108,29,0,13
-226,Melero,Levante,Midfielder,1190000,75,22,2,3
-227,Ximo Navarro,Alavés,Defender,1160000,122,31,2,7
-228,Escudero,Sevilla,Defender,1150000,71,21,0,8
-229,Raíllo,Mallorca,Defender,1150000,,,,
-230,Yokuslu,Celta,Midfielder,1130000,129,30,2,10
-231,Rubén,Osasuna,Goalkeeper,1120000,,,,
-232,Adrián Ramos,Granada,Forward,1120000,,,,
-233,Aridai Cabrera,Mallorca,Midfielder,1120000,0,0,0,0
-234,Fernando Reges,Sevilla,Midfielder,1110000,0,0,0,0
-235,Baba,Mallorca,Midfielder,1100000,0,0,0,0
-236,Vitolo,Atlético,Midfielder,1100000,69,20,0,1
-237,Piccini,Valencia,Defender,1090000,89,23,1,3
-238,Joselu,Alavés,Forward,1080000,,,,
-239,Capa,Athletic,Defender,1070000,82,25,0,9
-240,Joel Robles,Betis,Goalkeeper,1070000,23,5,0,0
-241,Bustinza,Leganés,Defender,1030000,108,25,0,11
-242,Oier Sanjurjo,Osasuna,Defender,1030000,,,,
-243,Nacho Vidal,Osasuna,Defender,1010000,,,,
-244,De Marcos,Athletic,Defender,1000000,101,30,1,6
-245,Waldo Rubio,Valladolid,Forward,980000,39,8,1,1
-246,Hernâni,Levante,Forward,980000,0,0,0,0
-247,Jason,Valencia,Defender,960000,113,30,2,10
-248,Lucas Olaza,Celta,Defender,960000,41,10,0,2
-249,Nolito,Sevilla,Forward,950000,8,4,0,0
-250,Germán Sánchez,Granada,Defender,950000,0,0,0,0
-251,Cheryshev,Valencia,Midfielder,940000,109,27,2,2
-252,Lucas Vázquez,Real Madrid,Midfielder,940000,104,31,1,6
-253,Martin Valjent,Mallorca,Defender,930000,0,0,0,0
-254,Rubén Duarte,Alavés,Defender,900000,114,33,0,11
-255,Gabriel Fernández,Celta,Forward,890000,0,0,0,0
-256,Savic,Atlético,Defender,870000,62,18,0,5
-257,Feddal,Betis,Defender,870000,88,21,1,7
-258,Diop,Eibar,Midfielder,850000,118,28,1,11
-259,Estupiñán,Osasuna,Defender,850000,0,0,0,0
-260,Marc Cardona,Osasuna,Forward,850000,61,17,3,1
-261,Abdón Prats,Mallorca,Forward,840000,0,0,0,0
-262,Beñat,Athletic,Midfielder,830000,96,27,1,8
-263,Sergi Gómez,Sevilla,Defender,830000,119,32,0,1
-264,Mario Gaspar,Villarreal,Defender,810000,111,31,1,17
-265,Quique González,Eibar,Forward,800000,0,0,0,0
-266,Santiago Arias,Atlético,Defender,800000,100,25,1,4
-267,Diego Lainez,Betis,Forward,790000,40,12,0,2
-268,Víctor Díaz,Granada,Defender,760000,,,,
-269,Sidnei,Betis,Defender,750000,99,24,1,4
-270,Joan Sastre,Mallorca,Defender,740000,0,0,0,0
-271,Marc Pedraza,Mallorca,Midfielder,740000,0,0,0,0
-272,Aduriz,Athletic,Forward,720000,55,20,2,4
-273,Portillo,Getafe,Midfielder,720000,101,32,1,4
-274,David García Zubiría,Osasuna,Defender,710000,,,,
-275,Remiro,Real Sociedad,Goalkeeper,700000,0,0,0,0
-276,Manu García,Alavés,Midfielder,690000,119,34,1,6
-277,Joseph Aidoo,Celta,Defender,680000,0,0,0,0
-278,Martín Aguirregabiria,Alavés,Defender,670000,79,27,0,5
+,name,team,position,value,rounds,points
+0,Benzema,Real Madrid,Forward,"22,700,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['15', '13', '5', '18', '14', '', '2', '7', '7', '15', '7', '17', '15', '3', '10', '11', '6', '5']"
+1,Messi,Barcelona,Forward,"29,390,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['Injured', 'Injured', 'Injured', 'Injured', '5', '6', 'Injured', '13', '13', '19', '7', '21', '10', '14', '21', '7', '7', '12']"
+2,Ødegaard,Real Sociedad,Midfielder,"17,610,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '14', '2', '13', '7', '11', '6', '2', '9', '8', '4', 'Injured', 'Injured', '7', '16', '5', '8', '14']"
+3,Gerard Moreno,Villarreal,Forward,"17,310,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['9', '10', '10', '17', '6', '2', '13', '4', '9', '15', '9', '5', '7', '5', '', '6', '5', '3']"
+4,Oyarzabal,Real Sociedad,Forward,"16,630,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['9', '5', '2', '7', '7', '18', '9', '2', '7', '6', '4', '7', '5', '4', '9', '7', '10', '10']"
+5,Luis Suárez,Barcelona,Forward,"19,540,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['2', 'Injured', 'Injured', '17', '0', '1', '12', '11', '12', '10', '1', '3', '9', '4', '14', '14', '1', '13']"
+6,Ezequiel Ávila,Osasuna,Forward,"10,000,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['10', '5', '4', '7', '3', '2', '3', '13', '4', '6', '0', '15', 'Suspended', '10', '12', '9', '3', '15']"
+7,Cazorla,Villarreal,Midfielder,"16,370,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['14', '8', '4', '7', '11', '14', '14', '5', '5', '11', '3', '8', '9', '4', 'Injured', 'Injured', '', '3']"
+8,Parejo,Valencia,Midfielder,"15,740,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Suspended', '4', '17', '2', '10', '7', '5', '10', '13', '2', '7', '10', '7', '4', '2', '4', '7', '6']"
+9,Banega,Sevilla,Midfielder,"10,290,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Suspended', '4', '8', '6', '3', '5', '10', '5', '4', '5', '7', '7', '8', '11', '3', '11', '5', '13']"
+10,Iago Aspas,Celta,Forward,"14,900,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '4', '6', '4', '3', '5', '1', '9', '6', '4', '8', '3', '3', '17', '3', '11', '8', '10']"
+11,Roberto Torres,Osasuna,Midfielder,"8,990,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '2', '18', '4', '7', '2', '8', '4', '5', '11', '', '9', '3', '7', '10', '3', '5', '9']"
+12,Kroos,Real Madrid,Midfielder,"10,390,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['12', '6', '6', '8', '4', '9', '10', '4', 'Injured', '14', '6', '', '2', '8', '4', '5', '3', '6']"
+13,Lucas Pérez,Alavés,Forward,"13,330,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '3', '1', '3', '3', '0', '11', '10', '14', '9', '12', '8', '12', '2', '9', '3', '2', '3']"
+14,Ángel Rodríguez,Getafe,Forward,"8,240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '', '5', '4', '9', '9', '0', '4', '17', '2', '9', '2', '6', '3', '9', '10', '10', '2']"
+15,Aitor Fernández,Levante,Goalkeeper,"6,520,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '6', '8', '10', '8', '1', '3', '11', '5', '5', '7', '6', '10', '9', '3', '2', '5', '4']"
+16,Rubén García,Osasuna,Midfielder,"9,300,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '2', '4', '2', '3', '3', '11', '7', '', '16', '10', '15', '4', '4', '10', '4', '5', '5']"
+17,Casemiro,Real Madrid,Midfielder,"12,800,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10']","['8', '4', '6', '13', '8', '7', '5', '6', '7', '8', '3', '7', '5', '5', '6', '', '6']"
+18,Mikel Merino,Real Sociedad,Midfielder,"10,900,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '3', '4', '7', '6', '6', '3', '11', '5', '4', '3', '6', '12', '4', '6', '6', '6', '6']"
+19,Joaquín,Betis,Midfielder,"6,060,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '3', '10', '7', '2', '12', '4', '3', '3', '0', '2', '', '6', '13', '9', '23', '3', '2']"
+20,Diego Carlos,Sevilla,Defender,"8,370,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '6', '4', '7', '5', '0', '2', '4', '6', '7', '6', '5', '6', '6', '15', '3', '2', '13']"
+21,Griezmann,Barcelona,Forward,"12,680,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['3', '18', '1', '7', '0', '11', '3', '', '14', '3', '0', '2', '1', '3', '11', '12', '3', '9']"
+22,Raúl García,Athletic,Midfielder,"10,830,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '9', '11', '5', '11', '9', '3', '2', '3', '3', '7', '5', '5', '5', '12', 'Suspended', '4', '1']"
+23,Cucurella,Getafe,Midfielder,"9,210,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '6', '7', '4', '6', '6', '5', '5', '4', '5', '7', '4', '7', '5', '6', '4', '9', '5']"
+24,Joselu,Alavés,Forward,"5,260,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['10', '2', '7', '3', '4', '', '10', '7', '3', '1', '3', '2', '10', '17', '3', '5', '9', '3']"
+25,Roger,Levante,Forward,"3,490,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '17', '3', '4', '2', '2', '2', '11', '3', '3', '2', '', '0', '9', '2', '13', '5', '17']"
+26,Portu,Real Sociedad,Forward,"9,510,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', '6', '2', '6', '7', '4', '9', '5', '12', '2', '4', '17', '2', '2', '6', '3', '2', '7']"
+27,Carvajal,Real Madrid,Defender,"6,830,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['Suspended', '5', '6', '5', '9', '', '3', '7', '', '7', '4', '6', '6', '15', '4', '3', '8', '8']"
+28,Ante Budimir,Mallorca,Forward,"3,680,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '4', '', '2', '17', '3', '6', '10', '5', '3', '5', '2', '2', '3', '3', '17', '9', '3']"
+29,Loren,Betis,Forward,"7,460,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['9', '11', '9', '1', 'Suspended', '15', '0', '9', '9', '3', '1', '1', '10', '3', '3', '5', '3', '2']"
+30,Campaña,Levante,Midfielder,"6,320,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '4', '5', '7', '5', '1', '6', '11', '6', '2', '6', '15', '4', '', 'Suspended', '4', '8', '6']"
+31,Frenkie de Jong,Barcelona,Midfielder,"11,430,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['4', '3', '1', '15', '4', '5', '5', '9', '7', '6', '1', '6', '3', '5', '8', '3', '4', '3']"
+32,Sergio Ramos,Real Madrid,Defender,"10,690,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['5', '5', '0', '3', '6', '6', '6', '5', '4', '10', '4', '9', '', '11', '5', '4', '7', '4']"
+33,Pau Torres,Villarreal,Defender,"7,010,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '3', '6', '6', '6', '6', '3', '11', '8', '5', '5', '6', '2', '2', '6', '7', '4', '5']"
+34,Jordan,Sevilla,Midfielder,"5,970,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '12', '5', '11', '3', '6', '7', '1', '5', '4', '3', '2', '3', '6', '5', '3', '4', '6']"
+35,Moi Gómez,Villarreal,Midfielder,"4,540,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['15', '4', '10', '4', '3', '3', '2', '', '5', '9', '2', '4', '4', '2', '4', '4', '5', '12']"
+36,Lucas Ocampos,Sevilla,Forward,"13,470,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '6', 'Injured', '6', '4', '12', '11', '4', '6', '10', '9', '4', '9', '', 'Suspended', 'Suspended', 'Suspended', '6']"
+37,Canales,Betis,Midfielder,"9,620,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Doubt', '4', '7', '4', '3', '7', '6', '2', '2', '6', '6', '5', '4', '14', '7', '3', '6', '5']"
+38,Jesús Navas,Sevilla,Defender,"9,470,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '3', '6', '6', '4', '4', '6', '2', '12', '8', '5', '5', '5', '3', '4', '3', '6', '3']"
+39,Chukwueze,Villarreal,Midfielder,"7,300,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['10', '5', '', '', '7', '3', '13', '3', '5', '5', '4', '3', '4', '12', '4', '7', '3', '4']"
+40,Anguissa,Villarreal,Midfielder,"6,720,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '', '6', '5', '7', '5', '4', '3', '6', '5', '3', '6', '5', '3', '13', '6', '5', '7']"
+41,Ferran Torres,Valencia,Midfielder,"7,880,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '3', '5', '4', '3', '', '8', '2', '2', '2', '3', '4', '12', '5', '13', '13', '4', '6']"
+42,Morata,Atlético,Forward,"11,760,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['10', '4', 'Injured', 'Injured', '2', '', 'Suspended', '3', '5', '9', '9', '9', '14', '2', '7', '1', '10', '7']"
+43,Nabil Fekir,Betis,Midfielder,"10,020,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '10', '14', '4', '3', 'Injured', 'Injured', '3', '2', '2', '9', '3', '4', '8', '15', 'Doubt', '2', '4']"
+44,Willian José,Real Sociedad,Forward,"9,500,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '2', '1', '2', '17', '11', '2', '3', '9', '0', '8', '3', '3', '9', '9', '3', '4', '1']"
+45,Kiko Olivas,Real Valladolid,Defender,"5,350,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '7', '3', '2', '5', '4', '7', '7', '1', '5', '10', '7', '3', '7', '6', '5', '3', '3']"
+46,Piqué,Barcelona,Defender,"7,240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['2', '6', '1', '12', '1', '6', '6', '7', 'Suspended', '3', '0', '3', '4', '8', '6', '9', '8', '5']"
+47,Estupiñán,Osasuna,Defender,"6,280,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '3', '6', '3', '4', '5', '6', '5', '2', '15', '7', '4', '5', '4', '6', '3', '6', '']"
+48,Vaclík,Sevilla,Goalkeeper,"4,760,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '5', '2', '8', '8', '1', '1', '2', '6', '8', '3', '9', '7', '4', '8', '2', '2', '4']"
+49,Óscar Rodríguez,Leganés,Midfielder,"3,590,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', 'Suspended', '3', '3', '13', '10', '7', '3', '3', '5', '2', '2', '2', '2', '5', '19', '2', '7']"
+50,Ekambi,Villarreal,Forward,"7,410,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '5', '2', '6', '4', '2', '17', '2', '9', '17', '4', '3', '3', '0', '2', '1', '9', '1']"
+51,Víctor Díaz,Granada,Defender,"3,860,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '5', '5', '4', '8', '6', '6', '3', '6', '8', '3', '4', 'Injured', '6', '2', '10', '7', '0']"
+52,Maxi Gómez,Valencia,Forward,"7,200,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '1', '3', '9', '0', '17', '5', '10', '5', '3', '3', '11', '3', '9', '5', '1', 'Injured', 'Injured']"
+53,Reguilón,Sevilla,Defender,"6,430,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['17', '3', '5', '8', '4', 'Doubt', '5', '2', '5', '5', '', '1', '3', '4', '4', '6', '7', '5']"
+54,Jaime Mata,Getafe,Forward,"6,160,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '8', '3', '6', '8', '10', '3', '9', '3', '3', '3', '', '2', '9', 'Suspended', '5', '6', '3']"
+55,Yuri,Athletic,Defender,"4,650,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '4', '8', '1', '4', '4', '1', 'Injured', 'Doubt', '2', '4', '6', '7', '4', '13', '11', '3', '5']"
+56,Darwin Machís,Granada,Forward,"3,180,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '3', '11', '3', '5', '3', '5', '6', '3', '6', '6', '3', '4', '3', '4', '2', '10', '2']"
+57,Braithwaite,Leganés,Forward,"2,470,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '2', '10', '1', '2', '3', '4', '6', '2', '8', '1', '3', '5', '1', '3', '6', '9', '14']"
+58,Orellana,Eibar,Midfielder,"7,600,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '5', '2', '3', '3', '12', '12', '10', '3', '5', '16', '3', '1', '5', '3', '', 'Suspended', 'Suspended']"
+59,Koke,Atlético,Midfielder,"5,760,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17']","['4', '6', '4', '5', '3', '8', '6', '4', '5', '5', '2', '4', '9', '4', '5', '4', '5']"
+60,Raúl Albiol,Villarreal,Defender,"3,890,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '4', '4', '6', '7', '4', '6', '2', '5', '4', '5', '7', '3', 'Suspended', '5', '5', '12', '6']"
+61,Williams,Athletic,Forward,"9,750,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '2', '9', '1', '6', '2', '3', '', '13', '3', '5', '4', '6', '7', '5', '6', '2', '3']"
+62,Salva Sevilla,Mallorca,Midfielder,"4,260,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '3', '4', '6', '1', '4', '2', '11', '4', '5', '9', '5', 'Suspended', '4', '4', '4', '6', '4']"
+63,Vidal,Barcelona,Midfielder,"3,220,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', '10', '3', '2', '', '', '', '13', '3', '13', '1', '', '10', '4', '5', '4', '4', '11']"
+64,Rui Silva,Granada,Goalkeeper,"3,130,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['0', '6', '8', '3', '7', '6', '8', '8', '10', '4', '', '2', '1', '5', '5', '4', '4', '2']"
+65,Fede Valverde,Real Madrid,Midfielder,"9,260,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', '', '1', 'Injured', '3', '5', '5', '9', '0', '5', '', '11', '13', '1', '10', '6', '8', '4']"
+66,Busquets,Barcelona,Midfielder,"6,730,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', '8', '4', '7', '', '6', '6', '6', '6', '7', '1', '10', '4', 'Suspended', '8', '3', '', '5']"
+67,Muniain,Athletic,Midfielder,"5,460,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17']","['3', '3', '6', '6', '10', '3', '1', '3', '9', '4', '19', '3', '11', 'Injured', 'Injured', 'Injured', 'Injured']"
+68,Vadillo,Granada,Midfielder,"4,340,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '4', '', '3', '11', '5', '2', '3', '8', '11', '', '10', '4', '3', '3', '5', '6', '2']"
+69,Unai Simón,Athletic,Goalkeeper,"2,880,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '2', '6', '4', '4', '', '8', '2', '', '', '8', '11', '2', '9', '4', '2', '4', '11']"
+70,Fernando Reges,Sevilla,Midfielder,"6,090,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '6', '4', '2', '5', '2', '5', '3', '5', '7', '6', 'Suspended', '6', '8', 'Doubt', '6', '5', '5']"
+71,Saúl,Atlético,Midfielder,"5,420,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '3', '5', '3', '1', '4', '3', '3', '5', '11', '2', '3', '6', 'Suspended', '2', '7', '13', '4']"
+72,Iñigo Martínez,Athletic,Defender,"5,110,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', '', '6', '3', '7', '5', '5', '2', '1', '5', '7', '6', '7', '5', '6', '2', '5', '8']"
+73,Salisu,Real Valladolid,Defender,"4,660,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '4', '4', '4', '1', '2', '5', '6', '4', '15', '3', '6', '3', '2', '4', '6', '3', '4']"
+74,Domingos Duarte,Granada,Defender,"5,120,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '4', '7', '4', '5', '3', '6', '10', '15', '6', '2', '3', '4', '5', '', '3', '5', '1']"
+75,Óscar Plano,Real Valladolid,Forward,"3,600,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['11', '5', '6', '1', '3', '10', '10', '2', '2', '6', '2', '5', '3', '2', '3', '2', '3', '3']"
+76,Modric,Real Madrid,Midfielder,"9,250,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', 'Suspended', '6', 'Injured', 'Injured', '', '3', '10', 'Injured', '6', '4', '8', '17', '5', '5', '5', '1', '7']"
+77,Varane,Real Madrid,Defender,"5,490,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10']","['5', '5', '2', '3', '6', '', '6', '5', '', '3', '5', '5', '5', '', '15', '5', '6']"
+78,Antonio Puertas,Granada,Midfielder,"5,070,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['10', '3', '10', '2', '8', '4', '9', '1', '6', 'Doubt', '8', '2', '3', '1', '4', '4', '2', '']"
+79,Capa,Athletic,Defender,"3,760,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17']","['4', '6', '8', '5', '3', '2', '3', '3', '3', '2', '6', '4', '16', '4', '3', '1', '3']"
+80,Rodrigo,Valencia,Forward,"9,490,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '2', '5', '7', '6', '4', '7', 'Doubt', '', 'Suspended', '8', '4', '2', '11', '10', '4', '1']"
+81,Emerson,Betis,Defender,"3,920,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '', '4', '', '4', '', '11', '3', '', '4', '12', '5', '6', '3', '3', '6', '3', '5']"
+82,Lucas Olaza,Celta,Defender,"3,310,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '4', '3', '2', '3', '4', '3', '5', '', '3', '', '3', '11', '6', '7', '4', '11', '4']"
+83,Aridane Hernández,Osasuna,Defender,"5,500,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '6', '5', '5', '6', '', '5', '5', '5', '5', '5', '5', '7', 'Doubt', 'Doubt', 'Doubt', '', '8']"
+84,Joel Robles,Betis,Goalkeeper,"2,240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', 'Suspended', '8', '6', '9', '3', '5', '2', '4', '3', '6', '9', '3', '3', '10', '1', '4', '5']"
+85,Manolo Reina,Mallorca,Goalkeeper,"2,080,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '6', '4', '9', '1', '2', '4', '5', '7', '3', '2', '', '7', '3', '2', '9', '5', '']"
+86,Yeray,Athletic,Defender,"4,050,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '5', '4', '6', '6', '', '5', '3', '1', '', '6', '7', '5', '5', '6', '1', '2', '5']"
+87,Iborra,Villarreal,Midfielder,"3,840,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '5', '4', '8', '6', '5', '3', '6', '5', '4', '4', '', '4', 'Suspended', '5', '6', '3']"
+88,Asenjo,Villarreal,Goalkeeper,"3,470,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '8', '6', '2', '7', '4', '9', '3', '7', '4', '', '5', '6', '5', '6', '3']"
+89,Ter Stegen,Barcelona,Goalkeeper,"5,800,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['6', '1', '4', '2', '2', '1', '10', '10', '5', '2', '', '6', '3', '8', '4', '', '8', '3']"
+90,Thomas,Atlético,Midfielder,"4,760,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '0', '11', 'Injured', '4', '5', '9', '2', '3', '5', '6', '7', '4', 'Suspended', '4', '3', '3', '2']"
+91,En-Nesyri,Leganés,Forward,"3,680,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '3', '2', '2', '2', '3', '0', '3', '3', '', '1', '10', '9', '8', '3', '7', '2', '9']"
+92,Masip,Real Valladolid,Goalkeeper,"2,550,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '5', '1', '8', '5', '', '4', '4', '9', '7', '1', '6', '', '2', '9', '6', '2', '3']"
+93,Arambarri,Getafe,Midfielder,"3,430,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '4', '5', '5', '6', '6', '2', 'Doubt', '7', '2', '10', '2', '7', '3', 'Suspended', '5', '3', '2']"
+94,Franco Vázquez,Sevilla,Midfielder,"3,360,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '0', '10', '3', '3', '', '10', '', '6', '5', '3', '10', '3', '4', '3', '6', '2', '3']"
+95,Darder,Espanyol,Midfielder,"3,110,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '6', '2', '2', '4', '2', '5', '', '3', '5', '4', '6', '9', '5', '1', '', '11', '4']"
+96,Oblak,Atlético,Goalkeeper,"4,780,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '6', '1', '0', '5', '4', '9', '4', '6', '8', '3', '1', '2', '3', '3', '5', '5', '2']"
+97,David Soria,Getafe,Goalkeeper,"2,450,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '2', '2', '2', '2', '1', '1', '5', '7', '7', '2', '4', '4', '4', '7', '4', '7', '2']"
+98,Pacheco,Alavés,Goalkeeper,"3,660,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['10', '6', 'Injured', '9', '2', '6', 'Doubt', 'Injured', '7', '1', '5', '0', '6', '11', '3', '0', '4', '']"
+99,Lago Junior,Mallorca,Forward,"4,130,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '3', '4', '3', '1', '4', '1', '5', '11', '3', '10', '2', '8', 'Injured', '7', 'Doubt', '3', '']"
+100,Gabriel Paulista,Valencia,Defender,"3,190,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '5', '', '2', '3', '2', '3', '5', '7', '4', '3', '', '4', '6', '7', '3', '4', '4']"
+101,Ontiveros,Villarreal,Midfielder,"2,790,000","['R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '6', '0', '14', '2', '7', '3', '3', '8', '3', '2', '4', '6', '3', '0', '', '1']"
+102,Dani Rodríguez,Mallorca,Midfielder,"2,610,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['10', '3', '4', '1', '0', '3', '2', '3', '2', '5', '3', '0', '9', '11', '3', '4', '3', '2']"
+103,Michel Herrero,Real Valladolid,Midfielder,"2,470,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '4', '3', '4', '3', '', '10', '3', '7', '6', '4', '6', '3', '3', '7', '1', '2', '']"
+104,Carlos Fernández,Granada,Forward,"2,280,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '3', '9', '2', '5', '9', '3', '4', '3', '6', '', '4', '1', '4', '3', '10', '3', '']"
+107,Diego López,Espanyol,Goalkeeper,"1,890,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '9', '1', '2', '1', '3', '5', '2', '6', '7', '1', '2', '2', '5', '1', '10', '5', '4']"
+108,Morales,Levante,Forward,"5,310,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '0', '9', '5', '3', '2', '3', '4', '1', '1', '5', '8', '5', '2', '2', '5', '2', '8']"
+109,Wass,Valencia,Defender,"3,690,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '6', '4', '', '2', '1', '4', '3', '3', '', '3', '4', '14', '1', '6', '1', '7', '3']"
+110,Óliver Torres,Sevilla,Midfielder,"2,790,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '', '', '5', '5', '9', '4', '0', '7', '10', '4', '3', '2', '2', '4', '2', '5', '']"
+111,Rochina,Levante,Midfielder,"2,490,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '6', '7', '3', '5', '', '3', '1', '', '4', '', '5', 'Doubt', '11', '2', '3', '11', '3']"
+112,Djené,Getafe,Defender,"4,790,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '4', '3', '1', '2', '2', '3', '7', '6', 'Doubt', '2', '5', '6', '7', 'Doubt', '5', '5', '2']"
+113,Aleix Vidal,Alavés,Defender,"2,710,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '6', '2', '2', '2', '4', '3', '3', '8', '', '6', '3', '4', '7', '4', '3', '3', '3']"
+114,Oliveira,Eibar,Defender,"1,430,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['11', '4', '1', '', '2', '6', '6', '5', '3', '4', '5', '2', '', '3', '', '3', '5', '7']"
+115,Arthur,Barcelona,Midfielder,"4,700,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', '', '12', '7', '', '12', '10', '9', '5', '', '1', '5', '', '4', 'Doubt', 'Injured', 'Injured', 'Doubt']"
+116,Denis Suárez,Celta,Midfielder,"4,320,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['9', '6', '11', '2', '3', '4', '3', '7', '6', '2', '4', '', '2', '5', '3', '0', 'Injured', 'Doubt']"
+117,Yangel Herrera,Granada,Midfielder,"2,100,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '5', '10', '6', '5', '4', '2', '5', '2', 'Suspended', '2', '3', '', '2', '12', '7', 'Injured']"
+118,Sergi Guardiola,Real Valladolid,Forward,"1,870,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['10', '9', '5', '2', '2', '1', '3', '3', '0', '9', '', '3', '0', '0', '3', '2', '4', '10']"
+119,Sergi Roberto,Barcelona,Defender,"3,720,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['2', '9', '0', '', '1', '3', '3', '6', '3', '3', '1', '5', 'Suspended', '6', '9', '5', '3', '5']"
+120,Miramón,Levante,Defender,"2,140,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '1', '6', '2', '4', '', '5', '6', '3', '2', '5', '4', '4', '10', '3', '', '5', '3']"
+121,Rubén Blanco,Celta,Goalkeeper,"1,340,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '6', '4', '1', '11', '5', '4', '4', '2', '3', '4', '4', '1', 'Injured', 'Injured', '3', '1', '4']"
+122,Lenglet,Barcelona,Defender,"4,270,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['3', '5', '4', '5', '0', '6', '', 'Suspended', '8', '12', '0', '', 'Doubt', '7', '4', '3', '7', '']"
+123,Bardhi,Levante,Midfielder,"3,070,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '6', '4', '4', '', 'Injured', 'Injured', 'Injured', '1', '', '11', '4', '0', '3', '2', '6', '12', '3']"
+124,Bartra,Betis,Defender,"2,480,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '2', '3', '', '4', '4', '', '5', '4', '', '4', '4', '3', 'Doubt', '5', '5', '11', '9']"
+125,Germán Sánchez,Granada,Defender,"1,770,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '4', '8', '10', '6', '3', '5', '5', 'Suspended', '3', '1', '2', '6', '12', 'Injured', 'Injured', 'Injured', 'Injured']"
+126,Rafinha,Celta,Midfielder,"4,370,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '6', '3', 'Doubt', '7', '4', '3', '3', '0', 'Doubt', '6', 'Injured', 'Injured', 'Doubt', '6', '2', '13', '2']"
+127,Renan Lodi,Atlético,Defender,"3,210,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', 'Suspended', '10', '3', '10', '7', '3', '4', '0', '6', '2', '0', '', '13', '0', '3', 'Doubt', '3']"
+128,Correa,Atlético,Forward,"2,750,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Suspended', 'Suspended', 'Doubt', '1', '1', '3', '2', '4', '', '10', '3', '7', '9', '1', '2', 'Suspended', '6', '13']"
+129,Lobotka,Celta,Midfielder,"1,680,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '6', '2', '3', '6', '2', '2', '4', '3', '3', '6', '2', '3', '5', '3', '', '5', '4']"
+133,Jason,Getafe,Defender,"2,520,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '3', '5', '15', '2', '3', '6', '3', '4', '', '5', '5', '10', 'Suspended', '', 'Doubt']"
+134,Zaldua,Real Sociedad,Defender,"1,770,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '3', '5', '5', '', '2', '3', '7', '4', '3', '4', '6', '2', '5', 'Suspended', '2', '4']"
+135,Bustinza,Leganés,Defender,"1,450,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '3', '2', '1', '5', '3', '', '7', '1', '7', '1', '4', '6', '2', '2', '9', '6', 'Doubt']"
+136,Martin Valjent,Mallorca,Defender,"1,360,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '3', '3', '4', '2', '3', '2', '4', '5', '4', '5', '2', '5', '2', '1', '2', '5', '3']"
+137,Rubén Duarte,Alavés,Defender,"2,320,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '5', '4', '7', '1', '', '3', '4', '3', '2', '2', '', '6', '5', '4', 'Suspended', '5', '4']"
+138,Soldado,Granada,Forward,"2,240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['13', '5', '3', '2', '2', '', '8', '0', '2', '2', '3', 'Suspended', '4', '3', '0', '9', '2', '2']"
+139,David García Zubiría,Osasuna,Defender,"1,900,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '3', '5', '4', '7', 'Injured', '3', 'Injured', 'Injured', '', '3', '3', '7', '3', '4', '4', '6', '3']"
+140,Dmitrovic,Eibar,Goalkeeper,"1,340,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '7', '0', '1', '7', '2', '8', '5', '1', '2', '2', '4', '0', '3', '0', '3', '7', '6']"
+141,Edu Expósito,Eibar,Midfielder,"910,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '3', '2', '1', '3', '5', '10', '3', '3', '3', '3', '0', '1', '', '2', '3', '9', '7']"
+142,Jorge Molina,Getafe,Forward,"2,610,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', 'Suspended', '9', '5', '8', '4', '2', '2', '3', '3', '', '4', '2', '4', '7', '3', '7', '0']"
+143,Vitolo,Atlético,Midfielder,"2,240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '12', '12', '5', '3', '4', '1', 'Doubt', '', '3', '', '', '11', '5', '', '3', 'Injured', 'Doubt']"
+144,Sandro,Real Valladolid,Forward,"2,180,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', 'Injured', 'Injured', '3', '4', '4', '6', '5', 'Injured', 'Injured', 'Injured', '9', '6', '3', '3', '4', '4', '3']"
+145,Xavier Quintilla,Villarreal,Defender,"1,620,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '', '3', '6', '3', '3', '4', '2', '', '', '4', '3', '', '6', '3', '7', '3', '7']"
+146,Aleix Febas,Mallorca,Midfielder,"1,310,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '3', '3', '4', '1', '', '3', '3', '3', '5', '5', '2', '7', '3', '6', '2', '2', '3']"
+147,Kike García,Eibar,Forward,"700,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '2', '3', '', '', '', '2', '1', '2', '3', '10', '9', '3', '1', '3', '4', '3', '9']"
+148,Kubo,Mallorca,Midfielder,"3,990,000","['R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '0', '6', '4', '5', '5', '2', '2', '3', '', '1', '13', '6', '5', '3', '', '4']"
+149,Felipe Monteiro,Atlético,Defender,"3,120,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '0', '', '', '6', '6', '', '', '4', '6', '3', '5', '4', '3', '5', '6', '5', '5']"
+150,Enes Ünal,Real Valladolid,Forward,"910,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '5', '3', '3', 'Not in match squad', '3', '5', '2', '3', '6', '2', '12', '3', '2', '', 'Doubt', '3', '3']"
+151,Álex Moreno,Betis,Defender,"3,770,000","['R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '5', '3', '5', '6', '5', '3', '2', '3', '6', '5', '6', 'Injured', '3', '4', '1']"
+152,Gameiro,Valencia,Forward,"2,820,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '3', '3', '8', '', '1', 'Injured', 'Injured', '2', '6', 'Injured', 'Injured', '6', '2', '2', '17', 'Injured', 'Injured']"
+153,Damián Suárez,Getafe,Defender,"1,860,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '2', '5', '4', '3', '3', '2', '4', '', 'Injured', '5', 'Suspended', '', '3', '6', '8', '7', '2']"
+154,Escalante,Eibar,Midfielder,"760,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '1', '', '2', '3', '4', '4', '', 'Suspended', '5', '4', '4', '2', '5', '2', '6', '4', '11']"
+155,Bale,Real Madrid,Forward,"5,430,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['9', '5', '15', 'Suspended', '5', '', '4', '4', 'Injured', 'Injured', 'Injured', 'Injured', '6', '1', 'Doubt', '2', '4', '1']"
+156,Cillessen,Valencia,Goalkeeper,"2,050,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '10', '6', '', '5', '', '6', '5', '3', '', '', '5', '5', '5', '8', '', 'Injured', 'Injured']"
+157,Marc Roca,Espanyol,Midfielder,"1,730,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '0', '3', '4', '4', '2', '1', '3', '5', '1', '9', '', '1', '8', '2', '6', '2']"
+158,Radoja,Levante,Midfielder,"1,470,000","['R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '3', '2', '5', '4', '4', '3', '4', '13', '2', '6', '1', '2', '5', '2']"
+159,Pedro León,Eibar,Midfielder,"1,450,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '1', '2', '', '2', '10', '3', '', '2', '7', '1', '2', '1', '2', '2', '3', '4', '9']"
+160,Luuk de Jong,Sevilla,Forward,"3,030,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '4', '3', '4', '2', '', '4', '0', '11', '2', '', '', '12', '3', '3', '', '1', '3']"
+161,Garay,Valencia,Defender,"1,840,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '2', '7', '2', '3', '', '3', '3', '3', '3', '3', '5', '4', 'Doubt', 'Injured', '4', '6', '3']"
+162,Roque Mesa,Leganés,Midfielder,"1,430,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '5', '0', '2', '', '3', '6', '4', '4', '5', '', '4', '4', '5', 'Suspended', '5', '1', '6']"
+163,Mandi,Betis,Defender,"1,210,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '2', '3', '3', '3', '', '7', '3', '4', '4', '4', '4', '6', '4', 'Suspended', '3', '4']"
+164,Wakaso,Alavés,Midfielder,"1,200,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '5', '1', '7', '3', '2', '6', 'Suspended', '7', '1', '3', '4', 'Doubt', '5', '3', '', 'Suspended', '5']"
+165,Nacho Martínez,Real Valladolid,Defender,"1,280,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '4', '3', '3', '', '2', '6', '5', '6', '7', '2', 'Injured', '', '4', '4', '5', 'Injured', 'Injured']"
+166,Héctor Herrera,Atlético,Midfielder,"3,360,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '3', '', '', '3', '', '2', '5', '3', '7', '8', '8', '3', '5', '5']"
+167,Hugo Mallo,Celta,Defender,"1,200,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', '0', '3', '2', '3', '8', '3', '5', '3', '3', '3', '4', '3', '5', '2', '2', '', '3']"
+168,Borja Iglesias,Betis,Forward,"3,710,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', 'Injured', '5', '2', '2', '9', '4', '3', '1', '0', '', '3', '2', '3', '3', '4', '7', '2']"
+169,Unai López,Athletic,Midfielder,"1,290,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '', '6', '3', '5', '', '1', '', '5', '4', '5', 'Doubt', '6', '1', '8', '5', '', '']"
+170,Ansu Fati,Barcelona,Forward,"2,600,000","['R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['3', '9', '14', '5', '5', 'Injured', 'Doubt', '', '3', '3', '2', '3', '', 'Doubt', '', '3', 'Doubt']"
+171,Nolito,Sevilla,Forward,"1,600,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['11', '6', '3', 'Injured', '2', '', '10', '2', '3', '4', '', '', '4', '3', '2', 'Injured', 'Doubt', 'Doubt']"
+172,Montoro,Granada,Midfielder,"1,580,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '4', '5', '10', '5', '4', '6', '0', 'Injured', 'Injured', 'Injured', 'Injured', '1', '7', '3', 'Injured', 'Injured', 'Injured']"
+173,Rodrigo Ely,Alavés,Defender,"1,150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '6', '4', '6', '2', '2', '6', '2', 'Doubt', 'Injured', 'Doubt', 'Doubt', 'Doubt', '7', '', '3', '3', '3']"
+174,Laguardia,Alavés,Defender,"2,630,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Doubt', 'Doubt', '4', '5', '2', '', '6', '1', '5', '2', '6', '10', '5', 'Suspended', '5', '', 'Suspended', '']"
+175,Hazard,Real Madrid,Forward,"13,240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['Injured', 'Injured', 'Injured', '6', '2', '', '1', '9', '', '7', '6', '9', '8', 'Doubt', 'Injured', 'Injured', 'Injured', 'Injured']"
+176,Azeez,Granada,Midfielder,"1,350,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '', '10', '0', '12', '', '5', '2', '2', '5', '2', '4', '1', '1', '', '', '', '']"
+177,Inui,Eibar,Midfielder,"950,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '2', '2', '4', '3', '10', '3', '2', '', '4', '2', '1', '', '2', '', '2', '11']"
+178,Arbilla,Eibar,Defender,"770,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '2', '10', '3', '3', '0', '6', '3', '3', '2', '5', '5', '0', '1', 'Suspended', '5', 'Doubt', 'Injured']"
+179,Diego Llorente,Real Sociedad,Defender,"2,400,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Suspended', '', '3', '6', '6', '6', '3', '', 'Suspended', '4', '0', '3', '4', '1', '7', '6', '3', '']"
+180,Brasanac,Osasuna,Midfielder,"960,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '3', '', 'Injured', 'Injured', 'Injured', '', '2', '3', '6', '7', '2', '3', '5', '6', '3', '5', '0']"
+181,Rubén,Osasuna,Goalkeeper,"790,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['7', '4', '3', '2', '5', '4', '4', '6', '2', '2', '4', '1', '3', 'Injured', 'Injured', 'Injured', 'Injured', 'Doubt']"
+182,Moyano,Real Valladolid,Defender,"590,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '5', 'Injured', '', '', '4', '4', '3', '4', '2', '', '6', '2', '0', '5', '6', '', '3']"
+183,Víctor Sánchez,Espanyol,Midfielder,"500,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '4', '1', '3', '4', '4', '1', '1', '5', '2', '4', '4', '3', '3', '4', 'Injured', 'Injured', 'Doubt']"
+184,Gayà,Valencia,Defender,"3,170,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Suspended', '5', '7', '3', '3', 'Injured', 'Injured', 'Injured', 'Doubt', '2', '5', '1', '5', '1', '3', '', '7', '3']"
+185,Jules Koundé,Sevilla,Defender,"2,450,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '', '', '', '', '', '2', '', '4', '6', '3', '8', '3', '6', '7', '2', '', '3']"
+186,Hermoso,Atlético,Defender,"2,300,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '2', '', '', '', '', '', '3', '5', '5', '5', '3', '3', '6', '6', '1', '']"
+187,Guardado,Betis,Midfielder,"1,050,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '3', '7', '', '3', '3', '', '3', '3', '2', '3', '3', '2', '2', '3', '5', 'Suspended', '3']"
+188,Fran Mérida,Osasuna,Midfielder,"880,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '3', '3', '4', '5', '1', '6', '', 'Suspended', '5', '4', '3', '7', '', '3', '2', '3']"
+189,Charles,Eibar,Forward,"580,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '1', '9', '3', '1', '', '2', '2', '2', '', '3', '9', '1', '3', '0', '4', '2', '3']"
+190,Cuéllar,Leganés,Goalkeeper,"1,350,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', 'Injured', '2', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '1', '6', '', '2', '7', '5', '7', '2', '3', '7']"
+191,Siovas,Leganés,Defender,"930,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '4', '4', '2', '5', '', '3', '3', '4', '2', 'Injured', '2', '5', '5', '0', 'Injured', 'Injured', 'Doubt']"
+192,Recio,Leganés,Midfielder,"700,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '', '', '', '4', '2', '3', '7', '5', '6', '0', '5', '4', 'Suspended', '3', '3', 'Injured', 'Doubt']"
+193,Pione Sisto,Celta,Midfielder,"2,530,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '', '', '2', '2', '0', '', '', '3', '', '', '2', '3', '12', '4', '6', '5', '3']"
+194,Oliver Burke,Alavés,Forward,"700,000","['R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '', '2', '6', '4', '2', '2', '3', '2', '5', '7', '2', '1', '4', '1']"
+195,Postigo,Levante,Defender,"460,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '2', '4', '2', '', '2', '5', 'Injured', '', '', '2', '4', '9', '3', 'Injured', 'Doubt', '5', '3']"
+196,Rubén Pérez,Leganés,Midfielder,"1,180,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '3', '2', '2', '3', '5', '2', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '5', '4', '4', '4', '6']"
+197,Bernardo,Espanyol,Defender,"940,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '', '', '3', '15', '1', '2', '3', '3', '', '5', '10', '2']"
+198,Vinícius,Real Madrid,Forward,"2,000,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['2', '1', '0', '5', '', '9', '', '', '3', '', '2', '3', '', '', '8', '2', '', '6']"
+199,James Rodríguez,Real Madrid,Midfielder,"1,590,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', '6', 'Injured', '11', '6', '2', '2', '11', '3', 'Not in match squad', '', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '']"
+200,Kenedy,Getafe,Midfielder,"960,000","['R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '0', '4', '3', '8', '6', '2', '', '10', '3', '3', '2', '', 'Injured', 'Doubt']"
+201,Martín Aguirregabiria,Alavés,Defender,"660,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '3', '5', '3', '', '', '', '2', '0', '5', '3', '3', '6', '1', '', '4', '1']"
+202,Pere Pons,Alavés,Midfielder,"440,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '2', '', '3', '3', '1', '0', '3', '', '', '0', '2', '3', '5', '1', '2', '4', '10']"
+203,Rakitic,Barcelona,Midfielder,"4,330,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['3', '', '', '3', '0', '', '2', '5', '3', '4', '', '', '3', '4', '8', '2', '3', '']"
+204,Ferland Mendy,Real Madrid,Defender,"2,480,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['Injured', '', '4', '', '9', 'Injured', 'Injured', 'Injured', '', '', '5', '8', '4', '2', '', 'Suspended', '6', '5']"
+205,Santi Mina,Celta,Forward,"2,160,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', '2', '6', '2', '4', '7', '', '4', '3', '5', '', 'Injured', 'Injured', '3', '1', '3', '3', '']"
+206,Matías Vargas,Espanyol,Midfielder,"1,070,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '5', '2', '5', '2', '6', '2', '1', '6', '7', '3', '', '', '0', 'Injured', 'Injured', 'Injured', 'Doubt']"
+207,Rosales,Leganés,Defender,"840,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '5', '', '', 'Doubt', 'Doubt', 'Doubt', 'Injured', '4', '7', '0', '5', '3', '3', '2', 'Suspended', '', '6']"
+208,Rodrygo Goes,Real Madrid,Forward,"4,630,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['Injured', 'Injured', 'Injured', '', '', '11', '', '', '', '9', '3', '', '3', '2', '3', '4', '2', '3']"
+209,David López,Espanyol,Defender,"740,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', 'Injured', '', '', '1', '3', '1', '2', '4', '5', '5', '2', '2', '2', '4', '2', '4', '2']"
+210,Granero,Espanyol,Midfielder,"390,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '8', '5', '', '', '4', '5', '1', '3', '2', '', '3', '', '3', '2', '3']"
+211,Fran Gámez,Mallorca,Defender,"290,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '2', '4', '8', '4', '2', '', 'Doubt', '3', '4', '3', '5', '4']"
+212,Januzaj,Real Sociedad,Midfielder,"1,230,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '4', '0', '0', '', '6', '7', '', '', '', '', '7', '6', '1', '', '', '4', '']"
+213,Wu Lei,Espanyol,Forward,"720,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '', '', '1', '3', '2', '2', '2', '', '2', '5', '3', '7', '3', '1', '', '2']"
+214,Clerc,Levante,Defender,"600,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '6', '6', '4', '', '5', '1', '', '2', '4', '4', '1', '5', '', '1', 'Doubt', '']"
+215,Joan Sastre,Mallorca,Defender,"470,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '3', '2', '4', '', '0', '2', '8', '0', '4', '', '1', '2', '7', '', '1', '', 'Doubt']"
+216,Moyà,Real Sociedad,Goalkeeper,"920,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['9', '6', '0', '9', '6', '', '6', '1', '', '', '', '', '', '', '', '', '', '']"
+217,Carlos Neva,Granada,Defender,"680,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '7', '3', '2', '1', '5', '6', '', '4', '3', '', '', '3', '2', '1']"
+218,Carriço,Sevilla,Defender,"1,380,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '5', '2', '6', '5', '3', 'Doubt', '0', 'Doubt', 'Injured', 'Injured', 'Injured', 'Doubt', '', '', '5', '1', '3']"
+219,Savic,Atlético,Defender,"1,130,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['8', '9', 'Injured', '3', '', '4', '7', '4', 'Injured', 'Injured', 'Injured', 'Injured', 'Doubt', 'Injured', 'Injured', 'Injured', 'Injured', '']"
+220,Junior Firpo,Barcelona,Defender,"850,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', '3', 'Injured', '', '', '5', '12', 'Injured', '', '', '', '5', '3', '4', '4', '', '', '']"
+221,Raíllo,Mallorca,Defender,"570,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '3', '', '3', 'Injured', 'Injured', 'Injured', '3', '6', '6', '2', '2', '3', '3', '3', '1', '', 'Suspended']"
+222,Mario Gaspar,Villarreal,Defender,"480,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '3', '1', '5', '', 'Injured', '', '', '', '5', '3', '', '1', '', '3', '3', '5', '6']"
+223,Isco,Real Madrid,Midfielder,"3,830,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['5', '2', 'Injured', 'Injured', 'Doubt', '', '', '0', '2', '3', '', '3', '2', '8', '', '4', '5', '']"
+224,Carlos Soler,Valencia,Midfielder,"3,070,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '3', '2', '3', 'Doubt', 'Doubt', '3', '5', '2', '7', '4']"
+225,Pedrosa,Espanyol,Defender,"740,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Doubt', 'Doubt', 'Doubt', '6', '2', '10', '2', '2', '3', '2', '', '3', '', '3', '0', '', '', '1']"
+226,Omeruo,Leganés,Defender,"240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '1', '4', '', '5', '5', '1', 'Injured', '2', '', '', '', '3', '3', 'Doubt', '', '5', '7']"
+227,Marcelo,Real Madrid,Defender,"2,690,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['9', '6', '', '4', 'Doubt', 'Injured', '', 'Doubt', '3', '6', '', 'Injured', '', '5', 'Injured', 'Injured', 'Injured', 'Injured']"
+228,Ibai Gómez,Athletic,Midfielder,"530,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', '', '3', '', '5', '2', '1', '', 'Doubt', '2', '', '8', '5', '', '3', '', '4', '']"
+229,Melero,Levante,Midfielder,"430,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '', '', '11', '3', '1', '', '3', '3', '', '7', '3', '1', '0', 'Injured', 'Injured', 'Injured', 'Doubt']"
+230,Adrián López,Osasuna,Forward,"340,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '2', '3', '', '', '2', '3', '3', 'Injured', 'Doubt', 'Doubt', '3', '5', '5', '3', '5']"
+231,Waldo Rubio,Real Valladolid,Midfielder,"610,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '6', '4', '4', '2', '', '', '2', '', '0', '2', '', '', '', '3', '', '3', '']"
+232,Pedraza,Betis,Defender,"510,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '2', '3', '3', '3', '', '3', '3', '6', '1', '', '', '', '3', '4', 'Injured', 'Injured', 'Doubt']"
+233,Fede San Emeterio,Real Valladolid,Midfielder,"250,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '3', '3', '4', '', '2', '6', 'Doubt', 'Doubt', 'Injured', 'Injured', '', '', '5', '', '6', '', '3']"
+234,Lucas Vázquez,Real Madrid,Midfielder,"670,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['10', '0', '4', '5', '0', '6', '', '', 'Injured', '', '', '6', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Doubt']"
+235,Sergi Enrich,Eibar,Forward,"700,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '1', '', '3', 'Doubt', 'Injured', 'Doubt', '', '2', '3', '3', '2', '0', '1', '', '0', '3', '9']"
+236,Fran Beltrán,Celta,Midfielder,"350,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '3', '', 'Suspended', '5', 'Doubt', '0', '', '3', '5', '4', '3', '2', '3', '', '', '2']"
+237,Portillo,Getafe,Midfielder,"240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Doubt', '2', '3', '', '4', '2', '3', '', '', '', '3', '5', '1', '1', '4', '', '1', '1']"
+238,Feddal,Betis,Defender,"470,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '', '', '', '3', '3', '7', '2', 'Suspended', '4', '3', '5', '3']"
+239,Robert Ibáñez,Osasuna,Midfielder,"380,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '1', '4', '10', '3', '3', '1', '3', 'Injured', 'Injured', 'Doubt', 'Doubt', 'Doubt', 'Doubt', '', '', '2', '']"
+240,De Blasis,Eibar,Forward,"260,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '1', '', '', '', '4', '6', '3', '2', '', '7', '4', '', '2', '', '2', '3', '']"
+241,Arnáiz,Leganés,Forward,"240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '2', '7', '2', '', '3', '2', '5', '', '2', '', '0', '3', '', '', '', '', '1']"
+242,José Antonio Martínez,Granada,Defender,"160,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '2', '', '', '2', '2', '', '5', '2', '3', '', '', '3', '2', '5', '2', '1']"
+243,Toni Villa,Real Valladolid,Midfielder,"460,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '2', '', '', '7', '3', '2', '', '2', '', '5', '1', '2', '', '2', '', '3']"
+244,Quini,Granada,Defender,"270,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '3', '6', '3', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '1', '1', '4', '2', '4', '3', 'Injured', 'Injured']"
+245,Ximo Navarro,Alavés,Defender,"230,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', 'Doubt', 'Injured', '', '0', '', '3', '3', '', '', '', '', '4', '6', '3', '2', '5', '2']"
+246,Kondogbia,Valencia,Midfielder,"1,510,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '3', '', '', '6', '2', 'Doubt', 'Injured', '2', '1', '2', '3', '3', 'Injured', 'Injured', 'Doubt', '1', '']"
+247,Alcaraz,Real Valladolid,Midfielder,"810,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', 'Injured', 'Injured', '3', '3', '3', 'Doubt', 'Injured', 'Doubt', 'Injured', '', '4', '3', '', '3', '', '3', 'Suspended']"
+248,Aritz Elustondo,Real Sociedad,Defender,"680,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Suspended', 'Doubt', '', '6', '5', '6', '2', '2', 'Doubt', 'Injured', 'Injured', 'Doubt', '2', '3', '1', 'Injured', 'Doubt', 'Doubt']"
+249,Marc Cardona,Osasuna,Forward,"210,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '3', 'Injured', '', '', '1', '', '', '', '2', '10', '3', '1', '4', '', '1', 'Doubt', 'Doubt']"
+250,Cabaco,Levante,Defender,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '2', '', '4', '', '', '5', '4', '2', '', '0', '', 'Injured', 'Injured', 'Injured', '4', '6']"
+251,Chicharito,Sevilla,Forward,"1,240,000","['R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '4', '', '', '2', '3', '9', '1', '3', '', '', '', '', '2', 'Injured']"
+252,Facundo Ferreyra,Espanyol,Forward,"610,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '1', '9', 'Injured', 'Injured', 'Injured', 'Injured', '3', '2', '2', '1', '', 'Injured', 'Doubt', '', '3', '0']"
+253,Sidnei,Betis,Defender,"370,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '3', '4', '4', 'Injured', 'Injured', 'Injured', '', '', '', '', '5', '4', '4', 'Injured', 'Injured', 'Doubt', 'Doubt']"
+256,Hernâni,Levante,Forward,"370,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '5', '', '', '1', '11', '4', 'Suspended', '2', '4', '', '', '', '', '', '', '', '']"
+257,Sergio Herrera,Osasuna,Goalkeeper,"670,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '', 'Doubt', '', '', '', '', '9', '2', 'Doubt', 'Injured', '10', '4']"
+258,Pape Cheikh,Celta,Midfielder,"750,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '2', '', '3', '2', '', '0', '1', '', '', 'Suspended', '1', '4', '4', '5', '2', '', '']"
+259,Cheryshev,Valencia,Midfielder,"650,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '', '3', '2', '', '', '8', '3', '', '1', 'Suspended', '1', 'Doubt', 'Injured', 'Injured', 'Injured', '', '3']"
+260,Anuar,Real Valladolid,Midfielder,"160,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '1', '1', '', '2', '', '', '1', '3', '4', '1', 'Doubt', '3', '', '', '3', '', '2']"
+261,Umtiti,Barcelona,Defender,"1,240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', '', '', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '6', 'Injured', 'Injured', '3', '6', '2', '', '', '', '6']"
+262,Kang-in Lee,Valencia,Midfielder,"320,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', '', '3', '2', '2', '11', '', '', '', 'Suspended', '3', '', '2', '5', 'Injured', 'Injured', 'Injured', 'Injured']"
+263,Ramis,Eibar,Defender,"270,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '', '3', '12', '4', '0', '', '', 'Doubt', 'Injured', 'Injured', 'Injured', 'Injured', '', '3', '', 'Doubt', 'Injured']"
+264,Ander Guevara,Real Sociedad,Midfielder,"250,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '6', '', '2', '2', '', '', '0', '', '', '', '5', '5', '3']"
+265,Diakhaby,Valencia,Defender,"270,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '1', '3', '', '', '2', '5', '4', '', '', '', '6', 'Doubt', 'Injured', 'Injured', '1', '0', '']"
+266,Quique González,Eibar,Forward,"190,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '', '', '2', '4', '2', '', '2', '', '3', '', '', '', '', '1', '', '', '5']"
+267,Nemanja Gudelj,Sevilla,Midfielder,"190,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '', '2', '', '2', '', '', '', '', '3', '2', '2', '0', '5', '', '', '0']"
+268,Dembélé,Barcelona,Forward,"2,260,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['2', 'Injured', 'Injured', 'Injured', 'Injured', '4', 'Injured', '5', 'Suspended', 'Suspended', '', '5', '5', 'Injured', 'Injured', 'Injured', 'Injured', 'Doubt']"
+269,Sergio León,Levante,Forward,"370,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '1', '9', '', '3', '0', '2', '2', '', '0', '', '', '', '', '1', '', '1', '']"
+270,Toño García,Levante,Defender,"240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '2', '', '', '', '2', '', '', '2', 'Injured', 'Injured', 'Injured', 'Doubt', '', '', '', '4', '6']"
+271,Calero,Espanyol,Defender,"440,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '6', '3', '3', '', '4', '', 'Suspended', '', 'Doubt', 'Injured', '', '', '3', '0', '3', '1', '2']"
+272,Eraso,Leganés,Midfielder,"230,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '3', '', '1', '', '', '', '', '1', '2', '', '3', '', '2', '2', '0', '2', '']"
+273,Trajkovski,Mallorca,Midfielder,"180,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '4', '', '', '3', '', '', '1', '4', '2', '', '', 'Injured', 'Injured', 'Injured', '', '']"
+274,Bigas,Eibar,Defender,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '', '4', '', '', '', '', '0', '1', '', '5', '2', '7']"
+275,Yokuslu,Celta,Midfielder,"230,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', 'Injured', 'Injured', '', '5', '', '0', '5', '', '', '', '', '', '', '', '4', '3', '2']"
+276,Melendo,Espanyol,Midfielder,"420,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '3', '2', '3', '', '', '', '3', 'Doubt', 'Doubt', 'Injured', '', '1', '', '2', '1', 'Doubt', 'Doubt']"
+277,Nacho,Real Madrid,Defender,"360,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', '', '', '', '', '4', '4', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '4', '', '5']"
+278,Fayçal Fajr,Getafe,Midfielder,"260,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '2', '3', '', '', '', '', '6', '', '', '', '', '', '', '', '', '', '3']"
+279,Abdón Prats,Mallorca,Forward,"170,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', 'Injured', 'Injured', '', '', '2', '2', '', '', '', '2', '3', '2', '4', '2', '1', '', '']"
+280,Alberto Moreno,Villarreal,Defender,"1,100,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', '5', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '5', '5', 'Injured', 'Injured', 'Doubt', 'Doubt', 'Injured', 'Doubt', 'Injured', 'Doubt']"
+281,Kevin Vázquez,Celta,Defender,"320,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '6', '3', '', '', '', '', '', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '', '', '', '2', '']"
+282,Sancet,Athletic,Midfielder,"240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '', '', '', '', '', '', '3', '', '', '', '', '', '6', '2', '2', '', '']"
+283,Christian Rivera,Leganés,Midfielder,"150,000","['R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '5', '2', '3', 'Injured', 'Doubt', '', '', '3', '2']"
+284,Sangalli,Real Sociedad,Midfielder,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '1', '', '', '', '', '', '3', '1', '3', '4', '3', '', '', '', '', 'Doubt']"
+285,Guedes,Valencia,Midfielder,"1,670,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['6', '4', '3', '0', '0', '1', '', '', 'Injured', 'Injured', 'Doubt', 'Doubt', 'Doubt', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured']"
+286,Illarramendi,Real Sociedad,Midfielder,"1,140,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['5', '7', '2', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured']"
+287,Javi López,Espanyol,Defender,"210,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '0', '', '3', '', '4', '3', '', '', '', '', '', '2', '', 'Doubt', 'Injured', '', '']"
+288,Sobrino,Valencia,Forward,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '2', '0', '', '', '9', '2', 'Doubt', 'Doubt', '2', 'Doubt', '', '']"
+289,Xisco Campos,Mallorca,Defender,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '', '', '', '2', '3', '2', '3', '', '', '', '', '3', '', '', '', '', '']"
+290,Lekue,Athletic,Defender,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '1', '', '1', '', '', '', '', '', '', '3', '2', '', '', '6']"
+291,Aleña,Barcelona,Midfielder,"780,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['0', '', '', '', '', '', '', '', '', '', '', '', '', '', '5', '4', '', '3']"
+292,William Carvalho,Betis,Midfielder,"480,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['4', '2', '2', '', 'Suspended', '4', '6', '', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured']"
+293,Corchia,Espanyol,Defender,"230,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '6', '2', 'Injured', 'Injured', 'Injured', 'Injured', '3', '', '', 'Injured', '', '', '', '', '', 'Injured', 'Injured']"
+294,Sergio Álvarez Díaz,Eibar,Midfielder,"240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['3', '3', '3', '', '', '0', '3', '', '2', '', 'Doubt', 'Doubt', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured']"
+295,Mathías Olivera,Getafe,Defender,"160,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', 'Injured', 'Doubt', 'Doubt', 'Injured', 'Injured', 'Doubt', 'Injured', '', '', '2', '', '5', '', '4', '6', '']"
+296,Odriozola,Real Madrid,Defender,"260,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['0', '', '', '', '', '5', '', '7', '', 'Suspended', '', '', '', '', '', '', '', '']"
+297,Coke,Levante,Defender,"240,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '3', 'Injured', '', '', '', '2', '', '', '', '3', '', '', '', '', '', '4', '0']"
+298,Piatti,Espanyol,Midfielder,"200,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', 'Injured', '', '', '', '', '3', '3', 'Doubt', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '2', 'Injured', '', '']"
+299,David Costas,Celta,Defender,"170,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['1', '', '2', 'Doubt', '', '', '', '', '2', '', '', '', '', '1', '', '', '', '2']"
+300,Todibo,Barcelona,Defender,"190,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', '', '', '', '', '', '2', '5', '', '', '', '', '', '', '', '', '', '']"
+301,Piccini,Valencia,Defender,"290,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '4', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured']"
+302,Sergio Álvarez,Celta,Goalkeeper,"190,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', '', '', '', '', '', '', '', '', '', '', '', '', '2', '4', '', 'Injured', 'Injured']"
+303,Guidetti,Alavés,Forward,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '1', '3', '', '0', '1', '', '1', '', '', '', 'Injured', '', '']"
+304,Barrenetxea,Real Sociedad,Midfielder,"180,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '', '1', '1', '0', '', '', '', '', '3', '0', '1', '']"
+305,Vesga,Athletic,Midfielder,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '', '0', '', '', '', '3', '', '', '', '', '', '0']"
+306,Herrerín,Athletic,Goalkeeper,"320,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '2', '', '', '', '', '', '', '', '', '', '', '', '']"
+307,Iturraspe,Espanyol,Midfielder,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Doubt', 'Injured', '', 'Injured', 'Doubt', 'Doubt', '', '', '', '2', '']"
+308,Javi Muñoz,Alavés,Midfielder,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '2']"
+309,Lluis López,Espanyol,Defender,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['2', '', '', '', '', '', '', '1', '', '', '', '', '', '', '', '', '', '']"
+310,Antunes,Getafe,Defender,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Doubt', 'Doubt', 'Injured', 'Injured', '', '', '', '1', '']"
+311,Mariano,Real Madrid,Forward,"330,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['Injured', 'Doubt', '', '', '', '', '', '', '', '', '', '', '', '', '', 'Injured', 'Injured', 'Injured']"
+312,Neto,Barcelona,Goalkeeper,"180,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['Injured', 'Injured', 'Injured', 'Injured', '', '', '', '', '', '', '', '', '', '', '', '', '', '']"
+313,Riqui Puig,Barcelona,Midfielder,"170,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R10', 'R18']","['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']"
+314,Oier Olazábal,Levante,Goalkeeper,"160,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '', '', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '', '', '', '', '']"
+315,Beauvue,Celta,Forward,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', 'Not in match squad', 'Not in match squad', 'Not in match squad', 'Not in match squad', 'Not in match squad', 'Not in match squad', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured']"
+316,Rober Suárez,Levante,Defender,"150,000","['R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', '', '']"
+317,Szymanowski,Leganés,Midfielder,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured', 'Injured']"
+318,Francis,Betis,Defender,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '', '', '', '', '', '', 'Doubt', '', '', '', '', '']"
+319,Cáseres,Villarreal,Midfielder,"150,000","['R1', 'R2', 'R3', 'R4', 'R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14', 'R15', 'R16', 'R17', 'R18']","['', '', '', '', '', '', '', '', '', '', '', '', '', '', 'Doubt', '', '', 'Doubt']"

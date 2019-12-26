@@ -26,6 +26,10 @@ def parse(args):
     if args["log_type"] == "market":
         df = df.drop_duplicates(subset='name', keep="last")
         df["value"] = df.value.str.replace(',', '').astype(int)
+    elif args["log_type"] == "transfers":
+        df["value"] = df.money.apply(lambda x: x.replace(",", "")[1:]).astype(int)
+    elif args["log_type"] == "players":
+        df = df.drop_duplicates(subset='name', keep="last")
     else:
         df["purchase_info"] = df.purchase_info.apply(_parse_purchase)
         df["increments"] = df.increments.apply(_parse_purchase)

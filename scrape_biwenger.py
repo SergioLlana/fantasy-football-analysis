@@ -1,4 +1,6 @@
 from utils import parse_scraper_args, read_json
+from scraper.transfers import TransferScraper
+from scraper.players import PlayerScraper
 from scraper.market import MarketScraper
 from scraper.teams import TeamScraper
 import logging
@@ -15,6 +17,12 @@ if __name__ == "__main__":
     if args["scraper_type"] == "market":
         scraper = MarketScraper
         output_file = "market.log"
+    elif args["scraper_type"] == "transfers":
+        scraper = TransferScraper
+        output_file = "transfers.log"
+    elif args["scraper_type"] == "players":
+        scraper = PlayerScraper
+        output_file = "players.log"
     else:
         scraper = TeamScraper
         output_file = "users.log"

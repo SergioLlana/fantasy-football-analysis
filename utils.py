@@ -8,7 +8,7 @@ def parse_scraper_args():
 
     # Whether we want to scrape the players in the market or the users in the league
     parser.add_argument('-t', '--scraper_type', dest='scraper_type', help='Scraper type',
-                        choices=["market", "users"], default="users")
+                        choices=["market", "transfers", "players", "users"], default="users")
 
     # Whether the scraper will run in background or not
     parser.add_argument('-b', '--headless', dest='headless', help='Headless',
@@ -22,9 +22,16 @@ def parse_scraper_args():
     parser.add_argument('-p', '--start_page', dest='start_page',
                         help='Start page', default="1")
 
+    parser.add_argument('-i', '--input', dest='input_file',
+                        help='Input file', default="")
+
+    parser.add_argument('-d', '--downloads', dest='downloads_folder',
+                        help='Downloads folder', default="")
+
     args = parser.parse_args(sys.argv[1:])
     return {"league_index": int(args.league_index), "start_page": int(args.start_page),
-            "headless": args.headless, "scraper_type": args.scraper_type}
+            "headless": args.headless, "scraper_type": args.scraper_type,
+            "input_file": args.input_file, "downloads_folder": args.downloads_folder}
 
 
 def parse_parser_args():
@@ -32,7 +39,7 @@ def parse_parser_args():
 
     # Whether we want to scrape the players in the market or the users in the league
     parser.add_argument('-t', '--log_type', dest='log_type', help='Log type',
-                        choices=["market", "users"], default="users")
+                        choices=["market", "transfers", "players", "users"], default="users")
 
     # Name of the CSV
     parser.add_argument('-o', '--output_file', dest='output_file', help='Output file')

@@ -1,0 +1,819 @@
+,player_name,money,date,origin_user,destination_user,value
+0,Dani Rodríguez,"€2,667,100","12/23/19, 9:14 AM",Thomas Party,,2667100
+1,Januzaj,"€1,277,100","12/23/19, 9:14 AM",Thomas Party,,1277100
+2,Roque Mesa,"€1,435,500","12/23/19, 9:14 AM",Thomas Party,,1435500
+3,Diego Llorente,"€2,424,700","12/23/19, 9:14 AM",Thomas Party,,2424700
+4,Jordi Alba,"€6,280,590","12/23/19, 7:13 AM",,Santa Bàrbara,6280590
+5,Sergi Roberto,"€3,820,000","12/22/19, 7:12 AM",,Thomas Party,3820000
+6,Iñigo Martínez,"€5,315,000","12/22/19, 7:12 AM",,Thomas Party,5315000
+7,Héctor Herrera,"€3,243,600","12/21/19, 7:13 AM",,Santa Bàrbara,3243600
+8,Ter Stegen,"€5,780,030","12/21/19, 7:13 AM",,FC Datalona,5780030
+9,Dani Rodríguez,"€2,800,000","12/20/19, 7:02 PM",Vetusta FC,Thomas Party,2800000
+10,Saúl,"€5,560,000","12/20/19, 7:09 AM",,Vetusta FC,5560000
+11,Franco Vázquez,"€3,485,400","12/19/19, 6:08 PM",Santa Bàrbara,,3485400
+12,Reguilón,"€6,343,700","12/19/19, 3:17 PM",Santa Bàrbara,,6343700
+13,Rodrigo,"€9,537,600","12/19/19, 11:34 AM",FC Datalona,,9537600
+14,Vinícius,"€2,162,200","12/19/19, 8:45 AM",Santa Bàrbara,,2162200
+15,Carlos Neva,"€710,005","12/19/19, 7:14 AM",,Camping Ballena Alegre,710005
+16,Eraso,"€230,005","12/19/19, 7:14 AM",,Camping Ballena Alegre,230005
+17,Nacho Martínez,"€1,371,200","12/18/19, 2:14 PM",Camping Ballena Alegre,,1371200
+18,Januzaj,"€1,250,000","12/18/19, 7:09 AM",,Thomas Party,1250000
+19,Rubén Duarte,"€2,176,200","12/17/19, 10:09 AM",Vetusta FC,,2176200
+20,Sergio Herrera,"€480,000","12/17/19, 7:33 AM",,Thomas Party,480000
+21,Jules Koundé,"€3,180,050","12/17/19, 7:33 AM",,Camping Ballena Alegre,3180050
+22,En-Nesyri,"€3,620,030","12/17/19, 7:33 AM",,Camping Ballena Alegre,3620030
+23,Jason,"€2,941,500","12/16/19, 2:10 PM",Thomas Party,,2941500
+24,Kondogbia,"€1,451,600","12/16/19, 8:29 AM",Santa Bàrbara,,1451600
+25,Rodrigo Ely,"€1,214,800","12/16/19, 8:10 AM",Thomas Party,,1214800
+26,Moyano,"€643,600","12/16/19, 8:10 AM",Thomas Party,,643600
+27,Thomas,"€4,682,300","12/16/19, 7:16 AM",Vetusta FC,,4682300
+28,Sergio Ramos,"€10,510,110","12/16/19, 7:14 AM",,Santa Bàrbara,10510110
+29,Lucas Olaza,"€2,600,100","12/16/19, 7:14 AM",,Vetusta FC,2600100
+30,Rodrygo Goes,"€4,847,100","12/15/19, 3:15 PM",Vetusta FC,,4847100
+31,Carlos Neva,"€748,600","12/15/19, 1:23 PM",Thomas Party,,748600
+32,Renan Lodi,"€3,468,400","12/15/19, 10:31 AM",Camping Ballena Alegre,,3468400
+33,Rodrigo,"€8,975,060","12/15/19, 7:10 AM",,FC Datalona,8975060
+34,Joaquín,"€5,650,010","12/15/19, 7:10 AM",,Vetusta FC,5650010
+35,Vinícius,"€1,954,430","12/15/19, 7:10 AM",,Santa Bàrbara,1954430
+36,Reguilón,"€6,131,550","12/15/19, 7:10 AM",,Santa Bàrbara,6131550
+37,Rubén Duarte,"€2,180,000","12/15/19, 7:10 AM",,Vetusta FC,2180000
+38,Aleña,"€410,000","12/14/19, 10:33 AM",Santa Bàrbara,Thomas Party,410000
+39,Diego Llorente,"€2,320,000","12/14/19, 7:13 AM",,Thomas Party,2320000
+40,Aleña,"€350,020","12/14/19, 7:13 AM",,Santa Bàrbara,350020
+41,Kondogbia,"€1,340,040","12/14/19, 7:13 AM",,Santa Bàrbara,1340040
+42,Franco Vázquez,"€3,470,050","12/14/19, 7:13 AM",,Santa Bàrbara,3470050
+43,Ferland Mendy,"€2,144,800","12/13/19, 8:38 AM",FC Datalona,,2144800
+44,Martín Aguirregabiria,"€802,200","12/12/19, 8:00 AM",Thomas Party,,802200
+45,Asenjo,"€3,529,000","12/12/19, 7:45 AM",Vetusta FC,,3529000
+46,Orellana,"€9,352,000","12/12/19, 12:06 AM",Santa Bàrbara,,9352000
+47,Junior Firpo,"€1,205,600","12/11/19, 2:14 PM",Thomas Party,,1205600
+48,Ter Stegen,"€5,893,100","12/11/19, 8:33 AM",Santa Bàrbara,,5893100
+49,Ante Budimir,"€3,089,200","12/11/19, 8:33 AM",Santa Bàrbara,,3089200
+50,Bartra,"€1,860,000","12/11/19, 7:12 AM",,Thomas Party,1860000
+51,Portu,"€10,532,900","12/10/19, 8:26 AM",Santa Bàrbara,,10532900
+52,Kike García,"€739,900","12/10/19, 7:56 AM",Thomas Party,,739900
+53,Radoja,"€1,453,100","12/10/19, 7:22 AM",Vetusta FC,,1453100
+54,Felipe Monteiro,"€2,444,790","12/10/19, 7:13 AM",,FC Datalona,2444790
+55,Ter Stegen,"€5,561,800","12/10/19, 7:13 AM",,Santa Bàrbara,5561800
+56,Thomas,"€5,075,000","12/10/19, 7:13 AM",,Vetusta FC,5075000
+57,Asenjo,"€3,420,000","12/10/19, 7:13 AM",,Vetusta FC,3420000
+58,Lago Junior,"€4,093,400","12/9/19, 8:32 AM",Santa Bàrbara,,4093400
+59,Capa,"€4,228,000","12/9/19, 8:32 AM",Santa Bàrbara,,4228000
+60,Marc Cardona,"€278,500","12/9/19, 8:32 AM",FC Datalona,,278500
+61,Roger,"€2,542,640","12/9/19, 7:12 AM",,Santa Bàrbara,2542640
+62,Ante Budimir,"€2,961,090","12/9/19, 7:12 AM",,Santa Bàrbara,2961090
+63,Arambarri,"€3,440,000","12/9/19, 7:12 AM",,Vetusta FC,3440000
+64,Darder,"€3,280,700","12/8/19, 5:48 PM",Camping Ballena Alegre,,3280700
+65,Hazard,"€14,865,900","12/8/19, 4:57 PM",Vetusta FC,,14865900
+66,Cillessen,"€2,524,500","12/8/19, 10:07 AM",Pastafarianism United,,2524500
+67,En-Nesyri,"€3,368,400","12/8/19, 9:40 AM",Santa Bàrbara,,3368400
+68,Djené,"€4,402,200","12/8/19, 9:40 AM",Santa Bàrbara,,4402200
+69,Portu,"€10,041,580","12/8/19, 7:13 AM",,Santa Bàrbara,10041580
+70,Aleix Vidal,"€2,830,500","12/8/19, 7:13 AM",,Camping Ballena Alegre,2830500
+71,Carlos Neva,"€711,000","12/8/19, 7:13 AM",,Thomas Party,711000
+72,Masip,"€2,630,001","12/8/19, 7:13 AM",,Pastafarianism United,2630001
+73,Antunes,"€147,900","12/7/19, 5:00 PM",Thomas Party,,147900
+74,Montoro,"€2,318,100","12/7/19, 5:00 PM",Thomas Party,,2318100
+75,Rodrygo Goes,"€4,940,000","12/7/19, 7:10 AM",,Vetusta FC,4940000
+76,Djené,"€4,250,000","12/7/19, 7:10 AM",,Santa Bàrbara,4250000
+77,Lago Junior,"€4,010,000","12/7/19, 7:10 AM",,Santa Bàrbara,4010000
+78,Pape Cheikh,"€820,720","12/7/19, 7:10 AM",,FC Datalona,820720
+79,En-Nesyri,"€3,210,000","12/7/19, 7:10 AM",,Santa Bàrbara,3210000
+80,Capa,"€4,000,000","12/7/19, 7:10 AM",,Santa Bàrbara,4000000
+81,Aleix Febas,"€1,428,000","12/6/19, 9:36 AM",Santa Bàrbara,,1428000
+82,Umtiti,"€1,595,400","12/6/19, 9:36 AM",Santa Bàrbara,,1595400
+83,Roger,"€2,470,800","12/6/19, 9:36 AM",Santa Bàrbara,,2470800
+84,Moyano,"€470,000","12/6/19, 7:09 AM",,Thomas Party,470000
+85,Alcaraz,"€1,128,100","12/5/19, 6:23 PM",Thomas Party,,1128100
+86,Ante Budimir,"€2,981,300","12/5/19, 8:54 AM",ValeronBalonDeOro,,2981300
+87,Canales,"€8,542,800","12/5/19, 8:36 AM",Santa Bàrbara,,8542800
+88,Kubo,"€3,760,000","12/4/19, 7:10 AM",,ValeronBalonDeOro,3760000
+89,Guardado,"€1,060,000","12/4/19, 7:10 AM",,ValeronBalonDeOro,1060000
+90,Thomas,"€5,377,300","12/3/19, 10:10 AM",ValeronBalonDeOro,,5377300
+91,Oliver Burke,"€630,700","12/3/19, 8:25 AM",Santa Bàrbara,,630700
+92,Aleix Febas,"€1,320,000","12/3/19, 7:10 AM",,Santa Bàrbara,1320000
+93,Roque Mesa,"€1,365,000","12/3/19, 7:10 AM",,Thomas Party,1365000
+94,Cuéllar,"€1,370,530","12/3/19, 7:10 AM",,FC Datalona,1370530
+95,Ekambi,"€9,326,400","12/2/19, 8:26 AM",Santa Bàrbara,,9326400
+96,Busquets,"€6,710,000","12/2/19, 7:18 AM",,ValeronBalonDeOro,6710000
+97,Enes Ünal,"€1,264,800","12/1/19, 11:23 AM",Vetusta FC,,1264800
+98,Canales,"€7,841,360","12/1/19, 7:09 AM",,Santa Bàrbara,7841360
+99,Koke,"€5,660,000","12/1/19, 7:09 AM",,Santa Bàrbara,5660000
+100,Diego Llorente,"€1,805,900","11/30/19, 9:34 AM",Vetusta FC,,1805900
+101,Emerson,"€3,500,100","11/30/19, 7:15 AM",,Vetusta FC,3500100
+102,Oliver Burke,"€570,000","11/30/19, 7:15 AM",,Santa Bàrbara,570000
+103,Ekambi,"€8,980,010","11/30/19, 7:15 AM",,Santa Bàrbara,8980010
+104,Zaldua,"€2,090,500","11/29/19, 4:52 PM",Santa Bàrbara,,2090500
+105,Sergio Ramos,"€10,094,400","11/29/19, 9:45 AM",Santa Bàrbara,,10094400
+106,Fede Valverde,"€5,665,300","11/29/19, 9:45 AM",Santa Bàrbara,,5665300
+107,Montoro,"€2,550,000","11/29/19, 9:30 AM",,Thomas Party,2550000
+108,Enes Ünal,"€1,360,010","11/29/19, 9:30 AM",,Vetusta FC,1360010
+109,Koke,"€5,722,700","11/28/19, 9:36 PM",U. B. Conquense,,5722700
+110,Óscar Plano,"€4,456,600","11/28/19, 9:11 AM",Camping Ballena Alegre,,4456600
+111,Sergio Ramos,"€9,840,020","11/28/19, 7:04 AM",,Santa Bàrbara,9840020
+112,Portu,"€10,004,600","11/27/19, 7:11 PM",Vetusta FC,,10004600
+113,Joselu,"€3,970,000","11/27/19, 7:09 AM",,Camping Ballena Alegre,3970000
+114,Hazard,"€14,830,010","11/27/19, 7:09 AM",,Vetusta FC,14830010
+115,Jason,"€2,580,000","11/27/19, 7:09 AM",,Thomas Party,2580000
+116,Borja Iglesias,"€4,150,001","11/27/19, 7:09 AM",,Pastafarianism United,4150001
+117,Calero,"€640,001","11/27/19, 7:09 AM",,Pastafarianism United,640001
+118,David Soria,"€2,386,200","11/26/19, 8:56 AM",Thomas Party,,2386200
+119,Pacheco,"€3,720,000","11/26/19, 7:08 AM",,Thomas Party,3720000
+120,Alberto Moreno,"€1,579,500","11/25/19, 8:06 PM",Pastafarianism United,,1579500
+121,Melero,"€869,600","11/25/19, 8:06 PM",Pastafarianism United,,869600
+122,Bardhi,"€2,950,500","11/25/19, 12:27 PM",Thomas Party,,2950500
+123,Marcelo,"€3,192,700","11/25/19, 12:27 PM",Thomas Party,,3192700
+124,Aleix Febas,"€1,309,000","11/25/19, 9:29 AM",Vetusta FC,,1309000
+125,Kenedy,"€1,793,500","11/25/19, 9:29 AM",Vetusta FC,,1793500
+126,Todibo,"€192,100","11/25/19, 8:38 AM",Santa Bàrbara,,192100
+127,Ibai Gómez,"€856,600","11/25/19, 8:38 AM",Thomas Party,,856600
+128,Antunes,"€151,000","11/25/19, 7:11 AM",,Thomas Party,151000
+129,Garay,"€1,932,300","11/24/19, 12:25 PM",FC Datalona,,1932300
+130,Fede Valverde,"€4,759,890","11/24/19, 7:10 AM",,Santa Bàrbara,4759890
+131,Umtiti,"€1,130,010","11/24/19, 7:10 AM",,Santa Bàrbara,1130010
+132,Roger,"€2,280,010","11/24/19, 7:10 AM",,Santa Bàrbara,2280010
+133,Pione Sisto,"€260,000","11/24/19, 7:10 AM",,Thomas Party,260000
+134,Vidal,"€2,620,920","11/23/19, 7:06 AM",,FC Datalona,2620920
+135,Dani Rodríguez,"€1,670,000","11/23/19, 7:06 AM",,Vetusta FC,1670000
+136,Franco Vázquez,"€3,294,000","11/22/19, 8:40 AM",Santa Bàrbara,,3294000
+137,Denis Suárez,"€5,822,200","11/22/19, 7:36 AM",Vetusta FC,,5822200
+138,Kenedy,"€1,840,000","11/22/19, 7:03 AM",,Vetusta FC,1840000
+139,Lago Junior,"€3,976,600","11/21/19, 8:45 AM",Santa Bàrbara,,3976600
+140,Carlos Neva,"€1,260,400","11/21/19, 8:45 AM",Santa Bàrbara,,1260400
+141,Garay,"€1,950,260","11/21/19, 7:06 AM",,FC Datalona,1950260
+142,Fran Mérida,"€966,000","11/21/19, 6:25 AM",U. B. Conquense,,966000
+143,Ekambi,"€8,932,900","11/21/19, 12:34 AM",Santa Bàrbara,,8932900
+144,Mariano,"€265,000","11/20/19, 7:09 AM",,Thomas Party,265000
+145,Charles,"€853,300","11/19/19, 11:10 PM",Thomas Party,,853300
+146,Arbilla,"€1,179,400","11/19/19, 11:10 PM",Thomas Party,,1179400
+147,Clerc,"€876,300","11/19/19, 2:44 PM",Camping Ballena Alegre,,876300
+148,Enes Ünal,"€1,429,800","11/19/19, 8:45 AM",Santa Bàrbara,,1429800
+149,Junior Firpo,"€1,035,000","11/19/19, 7:08 AM",,Thomas Party,1035000
+150,Aleix Febas,"€1,220,000","11/19/19, 7:08 AM",,Vetusta FC,1220000
+151,Koke,"€5,640,000","11/18/19, 7:12 AM",,U. B. Conquense,5640000
+152,Masip,"€3,039,500","11/17/19, 11:47 AM",FC Datalona,,3039500
+153,Nacho Martínez,"€1,780,050","11/17/19, 7:11 AM",,Camping Ballena Alegre,1780050
+154,Bardhi,"€3,190,000","11/17/19, 7:11 AM",,Thomas Party,3190000
+155,Rui Silva,"€4,001,700","11/16/19, 9:24 AM",Vetusta FC,,4001700
+156,Joel Robles,"€2,228,170","11/16/19, 7:12 AM",,FC Datalona,2228170
+157,Hermoso,"€1,913,400","11/15/19, 9:49 AM",Pastafarianism United,,1913400
+158,Vaclík,"€3,990,030","11/15/19, 7:07 AM",,Vetusta FC,3990030
+159,Ekambi,"€8,104,250","11/15/19, 7:07 AM",,Santa Bàrbara,8104250
+160,Alberto Moreno,"€1,710,011","11/15/19, 7:07 AM",,Pastafarianism United,1710011
+161,Kondogbia,"€2,057,600","11/14/19, 3:26 PM",Thomas Party,,2057600
+162,Azeez,"€2,720,000","11/14/19, 8:46 AM",Thomas Party,,2720000
+163,Rodrigo Ely,"€1,301,000","11/14/19, 7:09 AM",,Thomas Party,1301000
+164,Moi Gómez,"€5,100,000","11/14/19, 7:09 AM",,U. B. Conquense,5100000
+165,Óscar Rodríguez,"€3,340,600","11/13/19, 11:37 PM",U. B. Conquense,,3340600
+166,Rodrigo,"€8,050,900","11/13/19, 8:40 AM",Santa Bàrbara,,8050900
+167,Fran Gámez,"€359,400","11/12/19, 8:19 PM",U. B. Conquense,,359400
+168,Kike García,"€710,000","11/12/19, 7:10 AM",,Thomas Party,710000
+169,Nemanja Gudelj,"€217,600","11/11/19, 9:38 AM",Thomas Party,,217600
+170,Jordan,"€7,123,200","11/11/19, 8:32 AM",FC Datalona,,7123200
+171,Edu Expósito,"€1,186,100","11/10/19, 1:24 PM",Pastafarianism United,,1186100
+172,Franco Vázquez,"€3,006,110","11/10/19, 7:07 AM",,Santa Bàrbara,3006110
+173,Zaldua,"€1,800,010","11/10/19, 7:07 AM",,Santa Bàrbara,1800010
+174,Aridane Hernández,"€5,648,320","11/10/19, 7:07 AM",,FC Datalona,5648320
+175,Ibai Gómez,"€660,000","11/10/19, 7:07 AM",,Thomas Party,660000
+176,Feddal,"€380,000","11/9/19, 7:05 AM",,U. B. Conquense,380000
+177,Salisu,"€3,776,270","11/9/19, 7:05 AM",,Santa Bàrbara,3776270
+178,Rodrigo,"€7,640,020","11/9/19, 7:05 AM",,Santa Bàrbara,7640020
+179,Lago Junior,"€3,480,030","11/9/19, 7:05 AM",,Santa Bàrbara,3480030
+180,Hazard,"€12,637,800","11/8/19, 4:48 PM",Santa Bàrbara,,12637800
+181,Antonio Puertas,"€7,159,900","11/8/19, 7:20 AM",Camping Ballena Alegre,,7159900
+182,Xavier Quintilla,"€1,240,150","11/8/19, 7:12 AM",,Pastafarianism United,1240150
+183,Melero,"€890,000","11/8/19, 7:12 AM",,Pastafarianism United,890000
+184,Nacho Martínez,"€1,747,600","11/7/19, 10:15 AM",ValeronBalonDeOro,,1747600
+185,Enes Ünal,"€1,070,020","11/7/19, 7:10 AM",,Santa Bàrbara,1070020
+186,Carlos Fernández,"€2,616,600","11/6/19, 8:38 AM",Santa Bàrbara,,2616600
+187,Hazard,"€12,190,030","11/6/19, 7:09 AM",,Santa Bàrbara,12190030
+188,Wass,"€2,080,000","11/6/19, 7:09 AM",,ValeronBalonDeOro,2080000
+189,Carlos Fernández,"€2,390,000","11/5/19, 7:17 AM",,Santa Bàrbara,2390000
+190,Charles,"€880,000","11/5/19, 7:17 AM",,Thomas Party,880000
+191,Oliveira,"€2,235,200","11/4/19, 8:11 AM",FC Datalona,,2235200
+192,Koke,"€5,537,700","11/4/19, 8:11 AM",FC Datalona,,5537700
+193,Diego Carlos,"€4,670,350","11/4/19, 7:19 AM",,FC Datalona,4670350
+194,Martín Aguirregabiria,"€640,000","11/4/19, 7:19 AM",,Thomas Party,640000
+195,Sergio Álvarez,"€150,000","11/4/19, 7:19 AM",,U. B. Conquense,150000
+196,David López,"€1,110,020","11/3/19, 7:13 AM",,Camping Ballena Alegre,1110020
+197,Marc Cardona,"€310,020","11/3/19, 7:13 AM",,FC Datalona,310020
+198,Modric,"€5,370,390","11/3/19, 7:13 AM",,FC Datalona,5370390
+199,Antonio Puertas,"€6,670,050","11/3/19, 7:13 AM",,Camping Ballena Alegre,6670050
+200,Carlos Soler,"€2,512,200","11/2/19, 11:43 AM",Pastafarianism United,,2512200
+201,Bustinza,"€1,200,050","11/2/19, 7:15 AM",,Camping Ballena Alegre,1200050
+202,Nemanja Gudelj,"€210,000","11/2/19, 7:15 AM",,Thomas Party,210000
+203,Hugo Mallo,"€1,600,000","11/1/19, 6:09 PM",U. B. Conquense,Pastafarianism United,1600000
+204,Fede Valverde,"€3,252,200","11/1/19, 6:09 PM",U. B. Conquense,,3252200
+205,Rodrigo,"€7,448,400","11/1/19, 6:09 PM",U. B. Conquense,,7448400
+206,Ander Guevara,"€153,300","11/1/19, 11:06 AM",Thomas Party,,153300
+207,Yangel Herrera,"€2,843,100","11/1/19, 10:08 AM",ValeronBalonDeOro,,2843100
+208,Sobrino,"€150,000","11/1/19, 7:13 AM",,U. B. Conquense,150000
+209,Campaña,"€5,490,900","11/1/19, 7:13 AM",,U. B. Conquense,5490900
+210,Chukwueze,"€7,102,007","11/1/19, 7:13 AM",,U. B. Conquense,7102007
+211,Fayçal Fajr,"€529,400","10/31/19, 10:03 PM",Camping Ballena Alegre,,529400
+212,Rodrigo Ely,"€1,568,200","10/31/19, 8:19 AM",Pastafarianism United,,1568200
+213,Yokuslu,"€500,600","10/31/19, 8:19 AM",Pastafarianism United,,500600
+214,Marc Roca,"€1,830,000","10/31/19, 7:17 AM",,Pastafarianism United,1830000
+215,Cheryshev,"€1,289,100","10/30/19, 8:03 AM",FC Datalona,,1289100
+216,Carlos Neva,"€860,010","10/30/19, 7:13 AM",,Santa Bàrbara,860010
+217,Rubén García,"€2,390,000","10/30/19, 7:13 AM",,ValeronBalonDeOro,2390000
+218,Alcaraz,"€1,270,000","10/30/19, 7:13 AM",,Thomas Party,1270000
+219,Inui,"€1,524,000","10/29/19, 8:36 AM",Pastafarianism United,,1524000
+220,Bartra,"€2,297,600","10/29/19, 8:36 AM",Pastafarianism United,,2297600
+221,Sergio Ramos,"€8,524,700","10/29/19, 8:36 AM",FC Datalona,,8524700
+222,Facundo Ferreyra,"€1,508,100","10/29/19, 8:15 AM",Vetusta FC,,1508100
+223,Joel Robles,"€1,997,600","10/29/19, 7:49 AM",Thomas Party,,1997600
+224,Alberto Moreno,"€2,243,900","10/29/19, 7:49 AM",Thomas Party,,2243900
+225,Bernardo,"€800,000","10/29/19, 7:20 AM",,ValeronBalonDeOro,800000
+226,Darwin Machís,"€3,620,010","10/29/19, 7:20 AM",,Vetusta FC,3620010
+227,David Soria,"€2,142,000","10/29/19, 7:20 AM",,Thomas Party,2142000
+228,Carlos Soler,"€2,920,020","10/29/19, 7:20 AM",,Pastafarianism United,2920020
+229,Hermoso,"€1,480,009","10/29/19, 7:20 AM",,Pastafarianism United,1480009
+230,Brasanac,"€250,110","10/29/19, 7:20 AM",,Santa Bàrbara,250110
+231,Ángel Rodríguez,"€4,684,600","10/28/19, 7:16 PM",ValeronBalonDeOro,,4684600
+232,Arbilla,"€1,270,000","10/28/19, 5:03 PM",Santa Bàrbara,Thomas Party,1270000
+233,Corchia,"€486,700","10/28/19, 10:16 AM",Thomas Party,,486700
+234,Januzaj,"€1,517,400","10/28/19, 8:44 AM",Camping Ballena Alegre,,1517400
+235,Iñigo Martínez,"€2,963,300","10/28/19, 8:44 AM",Camping Ballena Alegre,,2963300
+236,Lago Junior,"€3,063,500","10/28/19, 8:31 AM",Santa Bàrbara,,3063500
+237,Pedrosa,"€1,881,500","10/28/19, 8:31 AM",Santa Bàrbara,,1881500
+238,Loren,"€8,554,110","10/28/19, 7:18 AM",,FC Datalona,8554110
+239,Lenglet,"€3,700,100","10/28/19, 7:18 AM",,Camping Ballena Alegre,3700100
+240,Fayçal Fajr,"€560,005","10/28/19, 7:18 AM",,Camping Ballena Alegre,560005
+241,Christian Rivera,"€260,050","10/28/19, 7:18 AM",,Camping Ballena Alegre,260050
+242,Morata,"€5,790,030","10/28/19, 7:18 AM",,Santa Bàrbara,5790030
+243,Vinícius,"€2,240,900","10/27/19, 11:30 PM",Vetusta FC,,2240900
+244,Ángel Rodríguez,"€5,050,000","10/27/19, 7:17 AM",,ValeronBalonDeOro,5050000
+245,Facundo Ferreyra,"€1,490,000","10/26/19, 7:17 AM",,Vetusta FC,1490000
+246,Fran Beltrán,"€568,100","10/25/19, 11:20 AM",Pastafarianism United,,568100
+247,Carlos Soler,"€2,554,700","10/25/19, 8:37 AM",Santa Bàrbara,,2554700
+248,Aritz Elustondo,"€1,433,000","10/25/19, 7:43 AM",U. B. Conquense,,1433000
+249,Radoja,"€660,001","10/25/19, 7:14 AM",,Vetusta FC,660001
+250,Nolito,"€3,570,600","10/24/19, 8:02 AM",FC Datalona,,3570600
+251,Borja Iglesias,"€6,627,800","10/24/19, 7:27 AM",Vetusta FC,,6627800
+252,Fran Gámez,"€300,000","10/24/19, 7:15 AM",,U. B. Conquense,300000
+253,Rosales,"€750,000","10/24/19, 7:15 AM",,U. B. Conquense,750000
+254,Ander Guevara,"€150,000","10/24/19, 7:15 AM",,Thomas Party,150000
+255,Vinícius,"€2,310,001","10/24/19, 7:15 AM",,Vetusta FC,2310001
+256,Williams,"€7,980,001","10/24/19, 7:15 AM",,Vetusta FC,7980001
+257,Bartra,"€2,290,003","10/24/19, 7:15 AM",,Pastafarianism United,2290003
+258,Willian José,"€7,193,570","10/23/19, 7:17 AM",,FC Datalona,7193570
+259,Lago Junior,"€2,690,650","10/23/19, 7:17 AM",,Santa Bàrbara,2690650
+260,Capa,"€2,959,000","10/22/19, 9:49 PM",Vetusta FC,,2959000
+261,Jorge Molina,"€3,847,500","10/22/19, 9:49 PM",Vetusta FC,,3847500
+262,Moyà,"€2,871,100","10/22/19, 8:12 AM",FC Datalona,,2871100
+263,Unai López,"€750,100","10/22/19, 7:18 AM",,U. B. Conquense,750100
+264,Arbilla,"€1,232,350","10/22/19, 7:18 AM",,Santa Bàrbara,1232350
+265,Toni Villa,"€1,225,100","10/22/19, 7:15 AM",U. B. Conquense,,1225100
+266,Carriço,"€2,808,500","10/22/19, 7:15 AM",U. B. Conquense,,2808500
+267,Xavier Quintilla,"€1,704,800","10/21/19, 10:27 AM",Pastafarianism United,,1704800
+268,Odriozola,"€373,500","10/21/19, 8:29 AM",Santa Bàrbara,,373500
+269,Masip,"€2,535,540","10/21/19, 7:14 AM",,FC Datalona,2535540
+270,Óscar Rodríguez,"€3,670,090","10/21/19, 7:14 AM",,U. B. Conquense,3670090
+271,Óliver Torres,"€2,699,000","10/20/19, 1:26 PM",U. B. Conquense,,2699000
+272,Sergi Roberto,"€2,427,900","10/20/19, 10:35 AM",FC Datalona,,2427900
+273,Domingos Duarte,"€4,000,001","10/20/19, 7:14 AM",,Vetusta FC,4000001
+274,Fede Valverde,"€3,410,033","10/19/19, 7:17 AM",,U. B. Conquense,3410033
+275,Carlos Soler,"€2,220,000","10/19/19, 7:17 AM",,Santa Bàrbara,2220000
+276,Bigas,"€155,000","10/18/19, 5:49 PM",Thomas Party,,155000
+277,Roberto Torres,"€5,474,100","10/18/19, 7:46 AM",Santa Bàrbara,,5474100
+278,Roger,"€3,388,600","10/18/19, 7:46 AM",Santa Bàrbara,,3388600
+279,Darwin Machís,"€3,844,800","10/18/19, 7:46 AM",Santa Bàrbara,,3844800
+280,Óscar Rodríguez,"€3,628,800","10/18/19, 7:46 AM",Santa Bàrbara,,3628800
+281,Savic,"€3,024,300","10/17/19, 8:10 AM",Thomas Party,,3024300
+282,Marcelo,"€4,035,000","10/17/19, 7:17 AM",,Thomas Party,4035000
+283,Montoro,"€2,509,500","10/16/19, 1:59 PM",Vetusta FC,,2509500
+284,Óscar Rodríguez,"€3,570,650","10/15/19, 7:15 AM",,Santa Bàrbara,3570650
+285,Odriozola,"€390,000","10/15/19, 7:15 AM",,Santa Bàrbara,390000
+286,Diakhaby,"€528,000","10/14/19, 11:05 PM",ValeronBalonDeOro,,528000
+287,David Costas,"€174,700","10/14/19, 1:52 PM",Pastafarianism United,,174700
+288,Cheryshev,"€1,321,080","10/14/19, 7:14 AM",,FC Datalona,1321080
+289,Rober Suárez,"€200,000","10/14/19, 7:14 AM",,ValeronBalonDeOro,200000
+290,Lobotka,"€2,011,100","10/13/19, 3:33 PM",ValeronBalonDeOro,,2011100
+291,Quique González,"€271,100","10/13/19, 3:33 PM",ValeronBalonDeOro,,271100
+292,Carlos Fernández,"€1,926,700","10/13/19, 10:28 AM",Santa Bàrbara,,1926700
+293,Roger,"€3,290,000","10/13/19, 7:15 AM",,Santa Bàrbara,3290000
+294,Inui,"€1,760,000","10/13/19, 7:15 AM",,Pastafarianism United,1760000
+295,Zaldua,"€1,569,400","10/12/19, 8:46 PM",U. B. Conquense,,1569400
+296,Williams,"€7,400,000","10/12/19, 10:21 AM",Pastafarianism United,,7400000
+297,Felipe Monteiro,"€827,700","10/12/19, 9:55 AM",U. B. Conquense,,827700
+298,Wakaso,"€1,802,700","10/12/19, 7:28 AM",Camping Ballena Alegre,,1802700
+299,Oliveira,"€2,011,310","10/12/19, 7:17 AM",,FC Datalona,2011310
+300,Roberto Torres,"€5,458,620","10/12/19, 7:17 AM",,Santa Bàrbara,5458620
+301,Thomas,"€4,490,000","10/12/19, 7:17 AM",,ValeronBalonDeOro,4490000
+302,Nabil Fekir,"€10,410,001","10/12/19, 7:17 AM",,Pastafarianism United,10410001
+303,Ferland Mendy,"€1,202,600","10/12/19, 7:17 AM",,FC Datalona,1202600
+304,Dembélé,"€3,784,300","10/11/19, 2:32 PM",Thomas Party,,3784300
+305,Santi Mina,"€4,313,300","10/11/19, 2:32 PM",Thomas Party,,4313300
+306,Rubén,"€2,078,700","10/11/19, 10:09 AM",ValeronBalonDeOro,,2078700
+307,Willian José,"€5,649,700","10/11/19, 10:09 AM",ValeronBalonDeOro,,5649700
+308,Maxi Gómez,"€7,250,000","10/11/19, 7:17 AM",,Thomas Party,7250000
+309,Radoja,"€508,700","10/10/19, 8:52 AM",Thomas Party,,508700
+310,William Carvalho,"€1,499,400","10/10/19, 7:30 AM",U. B. Conquense,,1499400
+311,Corchia,"€520,000","10/10/19, 7:13 AM",,Thomas Party,520000
+312,Fran Mérida,"€919,900","10/10/19, 7:13 AM",,U. B. Conquense,919900
+313,Aitor Fernández,"€3,501,000","10/10/19, 7:13 AM",,ValeronBalonDeOro,3501000
+314,Ante Budimir,"€3,602,000","10/10/19, 7:13 AM",,ValeronBalonDeOro,3602000
+315,Bigas,"€150,000","10/10/19, 7:13 AM",,Thomas Party,150000
+316,Aritz Elustondo,"€2,130,002","10/10/19, 7:13 AM",,U. B. Conquense,2130002
+317,Garay,"€2,218,400","10/9/19, 9:08 PM",Vetusta FC,,2218400
+318,Alberto Moreno,"€1,250,000","10/9/19, 7:14 AM",,Thomas Party,1250000
+319,Carlos Fernández,"€1,984,870","10/9/19, 7:14 AM",,Santa Bàrbara,1984870
+320,Correa,"€455,000","10/9/19, 7:14 AM",,U. B. Conquense,455000
+321,Fede San Emeterio,"€626,600","10/9/19, 6:33 AM",U. B. Conquense,,626600
+322,Kang-in Lee,"€862,500","10/8/19, 6:59 PM",Santa Bàrbara,,862500
+323,Lekue,"€149,600","10/8/19, 8:20 AM",Thomas Party,,149600
+324,Vadillo,"€1,885,900","10/8/19, 8:20 AM",Camping Ballena Alegre,,1885900
+325,Portu,"€5,530,005","10/8/19, 7:22 AM",,Vetusta FC,5530005
+326,Toni Villa,"€1,230,300","10/8/19, 7:22 AM",,U. B. Conquense,1230300
+327,Darder,"€2,550,000","10/8/19, 7:22 AM",,Camping Ballena Alegre,2550000
+328,Martin Valjent,"€1,359,200","10/7/19, 9:33 AM",Camping Ballena Alegre,,1359200
+329,Januzaj,"€2,500,000","10/7/19, 8:56 AM",U. B. Conquense,Camping Ballena Alegre,2500000
+330,Carriço,"€3,310,000","10/7/19, 7:17 AM",,U. B. Conquense,3310000
+331,Darwin Machís,"€3,585,850","10/6/19, 7:15 AM",,Santa Bàrbara,3585850
+332,Diego Carlos,"€4,132,700","10/5/19, 11:03 AM",FC Datalona,,4132700
+333,Dembélé,"€3,888,000","10/5/19, 7:14 AM",,Thomas Party,3888000
+334,Yuri,"€2,920,900","10/4/19, 8:44 AM",Pastafarianism United,,2920900
+335,Marc Roca,"€2,212,400","10/4/19, 8:21 AM",Santa Bàrbara,,2212400
+336,Todibo,"€278,240","10/4/19, 7:16 AM",,Santa Bàrbara,278240
+337,Radoja,"€360,000","10/4/19, 7:16 AM",,Thomas Party,360000
+338,Fran Beltrán,"€870,000","10/3/19, 11:51 PM",U. B. Conquense,Pastafarianism United,870000
+339,Isco,"€2,518,600","10/3/19, 8:43 AM",Santa Bàrbara,,2518600
+340,Nabil Fekir,"€10,914,100","10/3/19, 8:43 AM",Camping Ballena Alegre,,10914100
+341,Rubén Pérez,"€1,161,500","10/3/19, 8:43 AM",Pastafarianism United,,1161500
+342,James Rodríguez,"€5,052,000","10/3/19, 8:43 AM",Pastafarianism United,,5052000
+343,Nacho,"€346,800","10/3/19, 8:43 AM",Thomas Party,,346800
+344,Ansu Fati,"€4,989,900","10/3/19, 8:11 AM",FC Datalona,,4989900
+345,Bale,"€9,545,400","10/3/19, 8:11 AM",FC Datalona,,9545400
+346,Xavier Quintilla,"€1,910,002","10/3/19, 7:16 AM",,Pastafarianism United,1910002
+347,Diego Carlos,"€3,980,070","10/3/19, 7:16 AM",,FC Datalona,3980070
+348,Clerc,"€1,200,050","10/3/19, 7:16 AM",,Camping Ballena Alegre,1200050
+349,Aitor Fernández,"€2,925,600","10/2/19, 8:22 AM",Vetusta FC,,2925600
+350,Nolito,"€3,807,190","10/2/19, 7:15 AM",,FC Datalona,3807190
+351,Fede San Emeterio,"€560,090","10/2/19, 7:15 AM",,U. B. Conquense,560090
+352,Vadillo,"€1,910,000","10/2/19, 7:15 AM",,Camping Ballena Alegre,1910000
+353,Varane,"€4,340,001","10/2/19, 7:15 AM",,Pastafarianism United,4340001
+354,Gabriel Paulista,"€2,530,000","10/2/19, 7:15 AM",,Thomas Party,2530000
+355,Lekue,"€150,000","10/2/19, 7:15 AM",,Thomas Party,150000
+356,Martín Aguirregabiria,"€1,100,300","10/1/19, 2:52 PM",ValeronBalonDeOro,,1100300
+357,Chicharito,"€3,479,900","10/1/19, 2:52 PM",ValeronBalonDeOro,,3479900
+358,Anuar,"€165,700","10/1/19, 11:56 AM",U. B. Conquense,,165700
+359,Portillo,"€396,700","10/1/19, 11:56 AM",U. B. Conquense,,396700
+360,Odriozola,"€314,200","10/1/19, 11:56 AM",U. B. Conquense,,314200
+361,Alcaraz,"€2,172,800","10/1/19, 11:40 AM",Thomas Party,,2172800
+362,Dembélé,"€3,458,700","10/1/19, 8:22 AM",Camping Ballena Alegre,,3458700
+363,Matías Vargas,"€2,977,800","10/1/19, 7:20 AM",U. B. Conquense,,2977800
+364,Pau Torres,"€2,650,000","10/1/19, 7:15 AM",,ValeronBalonDeOro,2650000
+365,Álex Moreno,"€1,510,039","10/1/19, 7:15 AM",,U. B. Conquense,1510039
+366,Januzaj,"€1,840,009","10/1/19, 7:15 AM",,U. B. Conquense,1840009
+367,Cazorla,"€12,000,058","10/1/19, 7:15 AM",,Camping Ballena Alegre,12000058
+368,Rui Silva,"€2,870,002","10/1/19, 7:15 AM",,Vetusta FC,2870002
+369,Djené,"€3,478,000","9/30/19, 11:56 AM",Thomas Party,,3478000
+370,Waldo Rubio,"€2,723,500","9/30/19, 8:28 AM",Camping Ballena Alegre,,2723500
+371,Xisco Campos,"€151,900","9/30/19, 8:28 AM",Santa Bàrbara,,151900
+372,Charles,"€1,540,100","9/30/19, 8:28 AM",Santa Bàrbara,,1540100
+373,Rubén Duarte,"€2,998,500","9/30/19, 7:48 AM",U. B. Conquense,,2998500
+374,Yangel Herrera,"€2,390,000","9/30/19, 7:15 AM",,ValeronBalonDeOro,2390000
+375,Isco,"€2,400,010","9/30/19, 7:15 AM",,Santa Bàrbara,2400010
+376,Kiko Olivas,"€2,206,010","9/30/19, 7:15 AM",,U. B. Conquense,2206010
+377,Casemiro,"€6,750,040","9/29/19, 7:12 AM",,FC Datalona,6750040
+378,Orellana,"€3,990,010","9/29/19, 7:12 AM",,Santa Bàrbara,3990010
+379,Ibai Gómez,"€1,002,200","9/28/19, 7:43 PM",Santa Bàrbara,,1002200
+380,Iborra,"€3,350,005","9/28/19, 7:12 AM",,Camping Ballena Alegre,3350005
+381,Felipe Monteiro,"€801,000","9/28/19, 7:12 AM",,U. B. Conquense,801000
+382,Willian José,"€4,930,000","9/28/19, 7:12 AM",,ValeronBalonDeOro,4930000
+383,William Carvalho,"€1,700,020","9/28/19, 7:12 AM",,U. B. Conquense,1700020
+384,Matías Vargas,"€2,860,000","9/28/19, 7:12 AM",,U. B. Conquense,2860000
+385,Fran Gámez,"€156,600","9/27/19, 10:20 PM",U. B. Conquense,,156600
+386,David García Zubiría,"€1,933,200","9/27/19, 11:28 AM",FC Datalona,,1933200
+387,Guedes,"€5,754,800","9/27/19, 8:07 AM",FC Datalona,,5754800
+388,Rochina,"€3,231,800","9/27/19, 8:07 AM",Camping Ballena Alegre,,3231800
+389,Arbilla,"€1,232,100","9/27/19, 8:07 AM",Camping Ballena Alegre,,1232100
+390,Gameiro,"€4,534,600","9/27/19, 7:19 AM",U. B. Conquense,,4534600
+391,Joan Sastre,"€1,136,000","9/27/19, 7:19 AM",U. B. Conquense,,1136000
+392,Ezequiel Ávila,"€5,614,170","9/27/19, 7:13 AM",,FC Datalona,5614170
+393,Sergio Ramos,"€6,777,220","9/27/19, 7:13 AM",,FC Datalona,6777220
+394,Martin Valjent,"€1,460,005","9/27/19, 7:13 AM",,Camping Ballena Alegre,1460005
+395,Hugo Mallo,"€1,770,000","9/27/19, 7:13 AM",,U. B. Conquense,1770000
+396,Xisco Campos,"€150,000","9/27/19, 7:13 AM",,Santa Bàrbara,150000
+397,Wakaso,"€1,800,080","9/26/19, 10:04 PM",Santa Bàrbara,Camping Ballena Alegre,1800080
+398,Azeez,"€1,600,000","9/26/19, 9:39 AM",Santa Bàrbara,Thomas Party,1600000
+399,Morata,"€7,275,900","9/26/19, 8:02 AM",FC Datalona,,7275900
+400,Aleix Febas,"€1,316,700","9/26/19, 7:38 AM",Vetusta FC,,1316700
+401,Lago Junior,"€2,901,500","9/26/19, 7:38 AM",Vetusta FC,,2901500
+402,Borja Iglesias,"€8,960,000","9/26/19, 7:09 AM",,Vetusta FC,8960000
+403,Montoro,"€3,000,001","9/26/19, 7:09 AM",,Vetusta FC,3000001
+404,Ansu Fati,"€3,816,510","9/26/19, 7:09 AM",,FC Datalona,3816510
+405,Azeez,"€1,490,000","9/26/19, 7:09 AM",,Santa Bàrbara,1490000
+406,Ferland Mendy,"€1,324,600","9/25/19, 8:59 AM",Thomas Party,,1324600
+407,Abdón Prats,"€182,800","9/25/19, 8:16 AM",Camping Ballena Alegre,,182800
+408,Nacho,"€310,000","9/25/19, 8:16 AM",Camping Ballena Alegre,Thomas Party,310000
+409,Ibai Gómez,"€900,000","9/25/19, 7:14 AM",,Santa Bàrbara,900000
+410,Wakaso,"€1,670,000","9/25/19, 7:14 AM",,Santa Bàrbara,1670000
+411,Dembélé,"€2,870,080","9/25/19, 7:14 AM",,Camping Ballena Alegre,2870080
+412,Bardhi,"€4,645,500","9/24/19, 11:53 PM",ValeronBalonDeOro,,4645500
+413,Mario Gaspar,"€837,300","9/24/19, 1:41 PM",Thomas Party,,837300
+414,Vitolo,"€5,136,700","9/24/19, 10:26 AM",FC Datalona,,5136700
+415,Ferran Torres,"€1,373,800","9/24/19, 10:26 AM",FC Datalona,,1373800
+416,Gayà,"€4,336,700","9/24/19, 9:26 AM",Camping Ballena Alegre,,4336700
+417,Sergio Álvarez Díaz,"€568,700","9/24/19, 7:26 AM",U. B. Conquense,,568700
+418,Riqui Puig,"€166,000","9/24/19, 7:26 AM",U. B. Conquense,,166000
+419,Sobrino,"€151,900","9/24/19, 7:26 AM",U. B. Conquense,,151900
+420,Óliver Torres,"€1,700,000","9/24/19, 7:16 AM",,U. B. Conquense,1700000
+421,Arthur,"€3,831,070","9/24/19, 7:16 AM",,FC Datalona,3831070
+422,Estupiñán,"€2,081,070","9/24/19, 7:16 AM",,FC Datalona,2081070
+423,Waldo Rubio,"€3,220,005","9/24/19, 7:16 AM",,Camping Ballena Alegre,3220005
+424,Campaña,"€4,542,600","9/23/19, 9:28 AM",Pastafarianism United,,4542600
+425,Sergi Guardiola,"€5,696,600","9/23/19, 8:20 AM",Santa Bàrbara,,5696600
+426,Trajkovski,"€422,700","9/23/19, 8:20 AM",Santa Bàrbara,,422700
+427,Melendo,"€1,869,500","9/23/19, 7:18 AM",Vetusta FC,,1869500
+428,Ferland Mendy,"€1,170,000","9/23/19, 7:14 AM",,Thomas Party,1170000
+429,Jaime Mata,"€6,122,440","9/23/19, 7:14 AM",,Santa Bàrbara,6122440
+430,Kang-in Lee,"€400,000","9/23/19, 7:14 AM",,Santa Bàrbara,400000
+431,James Rodríguez,"€4,290,001","9/23/19, 7:14 AM",,Pastafarianism United,4290001
+432,Abdón Prats,"€200,000","9/21/19, 7:10 AM",,Camping Ballena Alegre,200000
+433,Mandi,"€2,050,000","9/21/19, 7:10 AM",,ValeronBalonDeOro,2050000
+434,Martin Valjent,"€1,550,100","9/20/19, 8:05 AM",FC Datalona,,1550100
+435,Kondogbia,"€2,850,000","9/20/19, 7:09 AM",,Thomas Party,2850000
+436,Miramón,"€1,381,000","9/20/19, 7:09 AM",,ValeronBalonDeOro,1381000
+437,Oier Olazábal,"€161,500","9/19/19, 10:22 PM",Thomas Party,,161500
+438,Mario Gaspar,"€890,000","9/19/19, 7:09 AM",,Thomas Party,890000
+439,Lobotka,"€2,340,000","9/19/19, 7:09 AM",,ValeronBalonDeOro,2340000
+440,Jesús Navas,"€6,530,000","9/19/19, 7:09 AM",,Vetusta FC,6530000
+441,Willian José,"€4,040,900","9/18/19, 11:54 PM",Vetusta FC,,4040900
+442,Sergi Enrich,"€2,061,500","9/18/19, 12:40 PM",ValeronBalonDeOro,,2061500
+443,Rubén García,"€1,504,600","9/18/19, 12:40 PM",ValeronBalonDeOro,,1504600
+444,Loren,"€4,733,400","9/18/19, 8:18 AM",FC Datalona,,4733400
+445,Lucas Vázquez,"€2,333,800","9/18/19, 8:18 AM",FC Datalona,,2333800
+446,Kevin Vázquez,"€1,660,600","9/18/19, 8:18 AM",Santa Bàrbara,,1660600
+447,Jordan,"€8,017,400","9/18/19, 7:12 AM",,FC Datalona,8017400
+448,Víctor Díaz,"€1,239,510","9/18/19, 7:12 AM",,FC Datalona,1239510
+449,Wass,"€3,827,700","9/17/19, 9:44 PM",ValeronBalonDeOro,,3827700
+450,Roberto Torres,"€4,288,500","9/17/19, 12:31 PM",Camping Ballena Alegre,,4288500
+451,David López,"€787,300","9/17/19, 12:31 PM",Camping Ballena Alegre,,787300
+452,Morales,"€7,600,000","9/17/19, 7:10 AM",,Thomas Party,7600000
+453,Anguissa,"€1,275,000","9/17/19, 7:10 AM",,Thomas Party,1275000
+454,Pedrosa,"€1,730,000","9/17/19, 7:10 AM",,Santa Bàrbara,1730000
+455,Rosales,"€1,423,000","9/16/19, 9:21 AM",ValeronBalonDeOro,,1423000
+456,Ferland Mendy,"€1,054,300","9/16/19, 7:16 AM",Thomas Party,,1054300
+457,Pedro León,"€2,829,000","9/16/19, 7:16 AM",Thomas Party,,2829000
+458,Oliveira,"€1,500,000","9/16/19, 7:16 AM",Thomas Party,,1500000
+459,Chicharito,"€3,960,000","9/16/19, 7:11 AM",,ValeronBalonDeOro,3960000
+460,Martín Aguirregabiria,"€1,250,000","9/16/19, 7:11 AM",,ValeronBalonDeOro,1250000
+461,Rakitic,"€3,482,200","9/15/19, 12:20 PM",Thomas Party,,3482200
+462,Nolito,"€4,524,200","9/15/19, 12:20 PM",Thomas Party,,4524200
+463,David López,"€760,050","9/15/19, 7:07 AM",,Camping Ballena Alegre,760050
+464,Rafinha,"€4,620,500","9/14/19, 7:08 AM",,Camping Ballena Alegre,4620500
+465,Kubo,"€3,150,500","9/13/19, 7:46 AM",Camping Ballena Alegre,,3150500
+466,Quini,"€885,900","9/13/19, 7:46 AM",Camping Ballena Alegre,,885900
+467,Arnáiz,"€603,700","9/12/19, 8:13 AM",Santa Bàrbara,,603700
+468,Saúl,"€6,059,500","9/12/19, 7:16 AM",Camping Ballena Alegre,,6059500
+469,Portu,"€3,642,400","9/11/19, 9:43 PM",Thomas Party,,3642400
+470,Ángel Rodríguez,"€2,461,900","9/11/19, 7:06 PM",Santa Bàrbara,,2461900
+471,Renan Lodi,"€3,530,050","9/11/19, 7:09 AM",,Camping Ballena Alegre,3530050
+472,Rakitic,"€3,540,000","9/11/19, 7:09 AM",,Thomas Party,3540000
+473,Martín Aguirregabiria,"€1,263,500","9/10/19, 8:13 PM",Santa Bàrbara,,1263500
+474,Laguardia,"€3,087,800","9/10/19, 8:13 PM",Santa Bàrbara,,3087800
+475,Raíllo,"€1,463,100","9/10/19, 8:02 AM",FC Datalona,,1463100
+476,Kubo,"€3,240,005","9/10/19, 7:09 AM",,Camping Ballena Alegre,3240005
+477,Martin Valjent,"€1,592,440","9/10/19, 7:09 AM",,FC Datalona,1592440
+478,Rochina,"€3,500,050","9/10/19, 7:09 AM",,Camping Ballena Alegre,3500050
+479,Pedrosa,"€1,848,700","9/9/19, 7:29 PM",Santa Bàrbara,,1848700
+480,Lenglet,"€4,228,100","9/9/19, 7:29 PM",Santa Bàrbara,,4228100
+481,Soldado,"€6,153,700","9/8/19, 10:53 AM",FC Datalona,,6153700
+482,Montoro,"€1,906,200","9/8/19, 10:53 AM",FC Datalona,,1906200
+483,Javi López,"€741,800","9/8/19, 8:02 AM",U. B. Conquense,,741800
+484,Michel Herrero,"€1,659,000","9/8/19, 7:06 AM",,U. B. Conquense,1659000
+485,Arnáiz,"€450,000","9/8/19, 7:06 AM",,Santa Bàrbara,450000
+486,Nacho,"€290,005","9/8/19, 7:06 AM",,Camping Ballena Alegre,290005
+487,Braithwaite,"€3,133,100","9/7/19, 9:27 AM",Santa Bàrbara,,3133100
+488,Marcelo,"€5,764,600","9/7/19, 7:50 AM",Camping Ballena Alegre,,5764600
+489,Damián Suárez,"€2,197,000","9/7/19, 7:50 AM",Camping Ballena Alegre,,2197000
+490,Iñigo Martínez,"€4,520,000","9/7/19, 7:09 AM",,Camping Ballena Alegre,4520000
+491,Bale,"€8,787,770","9/7/19, 7:09 AM",,FC Datalona,8787770
+492,Piqué,"€7,020,000","9/7/19, 7:09 AM",,Santa Bàrbara,7020000
+493,Yangel Herrera,"€247,800","9/6/19, 8:20 AM",Thomas Party,,247800
+494,Oblak,"€7,240,200","9/6/19, 7:37 AM",Camping Ballena Alegre,,7240200
+495,Quini,"€650,005","9/6/19, 7:12 AM",,Camping Ballena Alegre,650005
+496,Jorge Molina,"€4,700,000","9/6/19, 7:12 AM",,Vetusta FC,4700000
+497,Lucas Pérez,"€2,486,100","9/5/19, 7:59 AM",Vetusta FC,,2486100
+498,William Carvalho,"€2,595,800","9/5/19, 7:34 AM",Camping Ballena Alegre,,2595800
+499,Lluis López,"€153,900","9/5/19, 7:34 AM",Camping Ballena Alegre,,153900
+500,Unai Simón,"€3,070,500","9/5/19, 7:12 AM",,Camping Ballena Alegre,3070500
+501,Benzema,"€18,080,000","9/5/19, 7:12 AM",,Thomas Party,18080000
+502,Braithwaite,"€3,050,000","9/5/19, 7:12 AM",,Santa Bàrbara,3050000
+503,Yangel Herrera,"€200,000","9/5/19, 7:12 AM",,Thomas Party,200000
+504,Abdón Prats,"€195,800","9/4/19, 8:57 AM",ValeronBalonDeOro,,195800
+505,Vesga,"€150,200","9/4/19, 8:57 AM",ValeronBalonDeOro,,150200
+506,Vaclík,"€4,427,200","9/4/19, 8:06 AM",Thomas Party,,4427200
+507,Neto,"€186,300","9/4/19, 8:06 AM",FC Datalona,,186300
+508,Ter Stegen,"€6,737,700","9/4/19, 8:06 AM",FC Datalona,,6737700
+509,Cáseres,"€144,000","9/4/19, 7:25 AM",Vetusta FC,,144000
+510,Loren,"€4,716,420","9/4/19, 7:11 AM",,FC Datalona,4716420
+511,Kevin Vázquez,"€1,550,000","9/4/19, 7:11 AM",,Santa Bàrbara,1550000
+512,Moyà,"€2,740,100","9/4/19, 7:11 AM",,FC Datalona,2740100
+513,Charles,"€1,490,420","9/3/19, 7:14 AM",,Santa Bàrbara,1490420
+514,Joel Robles,"€2,110,000","9/3/19, 7:14 AM",,Thomas Party,2110000
+515,Sancet,"€150,800","9/2/19, 8:07 PM",Santa Bàrbara,,150800
+516,Varane,"€4,844,100","9/2/19, 11:23 AM",Thomas Party,,4844100
+517,Kevin Vázquez,"€1,432,800","9/2/19, 8:09 AM",Pastafarianism United,,1432800
+518,David García Zubiría,"€1,426,730","9/2/19, 7:14 AM",,FC Datalona,1426730
+519,Ferland Mendy,"€910,000","9/2/19, 7:14 AM",,Thomas Party,910000
+520,Alcaraz,"€2,560,000","9/2/19, 7:14 AM",,Thomas Party,2560000
+521,Laguardia,"€2,710,000","9/2/19, 7:14 AM",,Santa Bàrbara,2710000
+522,Ferran Torres,"€711,150","9/2/19, 7:14 AM",,FC Datalona,711150
+523,Víctor Sánchez,"€578,400","9/1/19, 11:25 PM",FC Datalona,,578400
+524,Toño García,"€1,126,100","9/1/19, 3:04 PM",FC Datalona,,1126100
+525,Hernâni,"€1,297,200","9/1/19, 3:04 PM",FC Datalona,,1297200
+526,Michel Herrero,"€1,737,000","9/1/19, 11:04 AM",Thomas Party,,1737000
+527,Ontiveros,"€2,690,006","9/1/19, 7:11 AM",,Pastafarianism United,2690006
+528,Arbilla,"€700,005","9/1/19, 7:11 AM",,Camping Ballena Alegre,700005
+529,Roberto Torres,"€3,010,005","9/1/19, 7:11 AM",,Camping Ballena Alegre,3010005
+530,Carvajal,"€6,510,000","9/1/19, 7:11 AM",,Camping Ballena Alegre,6510000
+531,Mathías Olivera,"€154,200","8/31/19, 7:17 AM",U. B. Conquense,,154200
+532,Trajkovski,"€460,000","8/31/19, 7:12 AM",,Santa Bàrbara,460000
+533,Martín Aguirregabiria,"€1,240,000","8/31/19, 7:12 AM",,Santa Bàrbara,1240000
+534,Luuk de Jong,"€6,359,600","8/31/19, 3:24 AM",Thomas Party,,6359600
+535,Piccini,"€991,400","8/30/19, 6:58 PM",Vetusta FC,,991400
+536,Orellana,"€5,137,900","8/30/19, 5:58 PM",Camping Ballena Alegre,,5137900
+537,Sergio Ramos,"€7,991,300","8/30/19, 8:13 AM",Santa Bàrbara,,7991300
+538,Ezequiel Ávila,"€4,174,100","8/30/19, 8:13 AM",Santa Bàrbara,,4174100
+539,Thomas,"€2,232,400","8/30/19, 7:59 AM",Camping Ballena Alegre,,2232400
+540,Kevin Vázquez,"€1,630,009","8/30/19, 7:09 AM",,Pastafarianism United,1630009
+541,Ekambi,"€3,705,100","8/29/19, 7:36 AM",Camping Ballena Alegre,,3705100
+542,Vitolo,"€1,814,810","8/29/19, 7:13 AM",,FC Datalona,1814810
+543,Siovas,"€3,096,800","8/28/19, 8:12 AM",Camping Ballena Alegre,,3096800
+544,Alberto Moreno,"€2,408,000","8/28/19, 7:40 AM",Pastafarianism United,,2408000
+545,Pione Sisto,"€349,900","8/28/19, 7:40 AM",Pastafarianism United,,349900
+546,Óscar Plano,"€3,110,000","8/28/19, 7:14 AM",,Camping Ballena Alegre,3110000
+547,Ezequiel Ávila,"€4,150,000","8/28/19, 7:14 AM",,Santa Bàrbara,4150000
+548,Sergio Ramos,"€7,870,000","8/28/19, 7:14 AM",,Santa Bàrbara,7870000
+549,Rubén Pérez,"€1,820,000","8/28/19, 7:14 AM",,Pastafarianism United,1820000
+550,Postigo,"€353,300","8/27/19, 9:32 AM",Thomas Party,,353300
+551,Morata,"€9,724,160","8/27/19, 7:15 AM",,FC Datalona,9724160
+552,Robert Ibáñez,"€461,600","8/26/19, 3:17 PM",Thomas Party,,461600
+553,Kondogbia,"€5,072,900","8/26/19, 3:17 PM",Thomas Party,,5072900
+554,Vinícius,"€4,837,100","8/26/19, 8:57 AM",FC Datalona,,4837100
+555,Pere Pons,"€2,295,300","8/26/19, 8:57 AM",FC Datalona,,2295300
+556,Borja Iglesias,"€9,997,700","8/26/19, 8:57 AM",FC Datalona,,9997700
+557,Hugo Mallo,"€2,107,900","8/26/19, 8:57 AM",FC Datalona,,2107900
+558,Raúl García,"€6,350,000","8/26/19, 7:14 AM",,Thomas Party,6350000
+559,Nabil Fekir,"€9,120,100","8/26/19, 7:14 AM",,Camping Ballena Alegre,9120100
+560,Koke,"€5,893,030","8/26/19, 7:14 AM",,FC Datalona,5893030
+561,Víctor Sánchez,"€340,030","8/26/19, 7:14 AM",,FC Datalona,340030
+562,Hernâni,"€1,320,340","8/26/19, 7:14 AM",,FC Datalona,1320340
+563,Herrerín,"€1,172,000","8/25/19, 9:56 AM",Vetusta FC,,1172000
+564,Jules Koundé,"€1,931,700","8/25/19, 9:37 AM",FC Datalona,,1931700
+565,Escalante,"€1,452,800","8/25/19, 9:37 AM",FC Datalona,,1452800
+566,Aitor Fernández,"€2,220,000","8/25/19, 7:12 AM",,Vetusta FC,2220000
+567,Mikel Merino,"€3,488,560","8/25/19, 7:12 AM",,FC Datalona,3488560
+568,Javi Muñoz,"€143,300","8/25/19, 7:12 AM",U. B. Conquense,,143300
+569,Arbilla,"€806,300","8/24/19, 8:19 AM",Pastafarianism United,,806300
+570,Xavier Quintilla,"€697,000","8/24/19, 7:54 AM",Camping Ballena Alegre,,697000
+571,Thomas,"€3,280,000","8/24/19, 7:08 AM",,Camping Ballena Alegre,3280000
+572,Fernando Reges,"€3,127,600","8/23/19, 8:16 AM",Santa Bàrbara,,3127600
+573,De Blasis,"€155,200","8/23/19, 8:16 AM",Santa Bàrbara,,155200
+574,Illarramendi,"€5,558,400","8/23/19, 8:16 AM",Santa Bàrbara,,5558400
+575,Joselu,"€3,010,000","8/23/19, 8:16 AM",Santa Bàrbara,,3010000
+576,Oliveira,"€752,000","8/23/19, 7:11 AM",,Thomas Party,752000
+577,Sancet,"€150,000","8/23/19, 7:11 AM",,Santa Bàrbara,150000
+578,Carlos Soler,"€4,772,700","8/22/19, 1:33 PM",Santa Bàrbara,,4772700
+579,Cabaco,"€196,300","8/22/19, 7:41 AM",Vetusta FC,,196300
+580,Ángel Rodríguez,"€2,760,000","8/22/19, 7:09 AM",,Santa Bàrbara,2760000
+581,Robert Ibáñez,"€350,000","8/22/19, 7:09 AM",,Thomas Party,350000
+582,Coke,"€1,520,200","8/22/19, 6:48 AM",Camping Ballena Alegre,,1520200
+583,Vitolo,"€1,463,000","8/21/19, 9:48 AM",FC Datalona,,1463000
+584,Dembélé,"€5,176,600","8/21/19, 9:48 AM",FC Datalona,,5176600
+585,David Costas,"€180,001","8/21/19, 7:13 AM",,Pastafarianism United,180001
+586,Guedes,"€8,725,550","8/21/19, 7:13 AM",,FC Datalona,8725550
+587,Maxi Gómez,"€8,201,800","8/20/19, 7:46 AM",Camping Ballena Alegre,,8201800
+588,Postigo,"€150,000","8/20/19, 7:17 AM",,Thomas Party,150000
+589,Abdón Prats,"€370,000","8/20/19, 7:17 AM",,ValeronBalonDeOro,370000
+590,Fernando Reges,"€2,650,000","8/20/19, 7:17 AM",,Santa Bàrbara,2650000
+591,Omeruo,"€1,010,700","8/19/19, 1:13 PM",Santa Bàrbara,,1010700
+592,Renan Lodi,"€3,915,600","8/19/19, 8:09 AM",Thomas Party,,3915600
+593,Óliver Torres,"€3,188,900","8/19/19, 8:09 AM",Thomas Party,,3188900
+594,Pedraza,"€3,456,300","8/19/19, 8:09 AM",Thomas Party,,3456300
+595,Iturraspe,"€225,800","8/19/19, 8:09 AM",Thomas Party,,225800
+596,Jules Koundé,"€2,681,390","8/19/19, 7:10 AM",,FC Datalona,2681390
+597,Joselu,"€2,150,000","8/19/19, 7:10 AM",,Santa Bàrbara,2150000
+598,Pedro León,"€4,240,000","8/19/19, 7:10 AM",,Thomas Party,4240000
+599,Toño García,"€451,720","8/19/19, 7:10 AM",,FC Datalona,451720
+600,Barrenetxea,"€218,600","8/18/19, 11:36 AM",FC Datalona,,218600
+601,Ramis,"€1,152,600","8/18/19, 11:36 AM",FC Datalona,,1152600
+602,Ferland Mendy,"€1,245,100","8/18/19, 11:36 AM",FC Datalona,,1245100
+603,Rubén Pérez,"€2,156,100","8/18/19, 11:36 AM",FC Datalona,,2156100
+604,Masip,"€3,565,500","8/18/19, 9:38 AM",Camping Ballena Alegre,,3565500
+605,Nacho,"€464,400","8/18/19, 9:38 AM",Camping Ballena Alegre,,464400
+606,Marcelo,"€4,500,005","8/18/19, 7:11 AM",,Camping Ballena Alegre,4500005
+607,Illarramendi,"€4,880,000","8/18/19, 7:11 AM",,Santa Bàrbara,4880000
+608,Xavier Quintilla,"€150,100","8/18/19, 7:11 AM",,Camping Ballena Alegre,150100
+609,Oblak,"€8,510,000","8/17/19, 7:15 AM",,Camping Ballena Alegre,8510000
+610,Omeruo,"€910,000","8/17/19, 7:15 AM",,Santa Bàrbara,910000
+611,Carlos Soler,"€4,400,000","8/17/19, 7:15 AM",,Santa Bàrbara,4400000
+612,Koke,"€6,064,100","8/16/19, 9:59 AM",Santa Bàrbara,,6064100
+613,Enes Ünal,"€1,155,300","8/16/19, 9:59 AM",Santa Bàrbara,,1155300
+614,Diego López,"€3,561,400","8/16/19, 9:59 AM",Santa Bàrbara,,3561400
+615,Sidnei,"€1,052,100","8/15/19, 10:29 AM",Thomas Party,,1052100
+616,Sergio León,"€2,493,000","8/15/19, 9:49 AM",ValeronBalonDeOro,,2493000
+617,Ximo Navarro,"€1,181,300","8/15/19, 9:26 AM",Santa Bàrbara,,1181300
+618,Calero,"€3,186,400","8/15/19, 9:26 AM",Santa Bàrbara,,3186400
+619,Parejo,"€10,720,010","8/15/19, 7:10 AM",,Santa Bàrbara,10720010
+620,Sandro,"€3,178,800","8/14/19, 8:34 AM",Santa Bàrbara,,3178800
+621,Arthur,"€3,688,700","8/14/19, 8:34 AM",Santa Bàrbara,,3688700
+622,Todibo,"€152,600","8/14/19, 8:34 AM",Thomas Party,,152600
+623,Aleña,"€356,600","8/14/19, 8:34 AM",Santa Bàrbara,,356600
+624,Lenglet,"€3,870,010","8/14/19, 7:12 AM",,Santa Bàrbara,3870010
+625,Joel Robles,"€2,509,800","8/13/19, 8:40 AM",Camping Ballena Alegre,,2509800
+626,Piatti,"€143,000","8/13/19, 8:40 AM",Camping Ballena Alegre,,143000
+627,Mario Gaspar,"€980,400","8/13/19, 8:40 AM",Camping Ballena Alegre,,980400
+628,Ángel Rodríguez,"€2,876,900","8/13/19, 8:22 AM",Santa Bàrbara,,2876900
+629,Ferran Torres,"€710,500","8/13/19, 8:22 AM",Santa Bàrbara,,710500
+630,Cucurella,"€4,850,000","8/13/19, 7:10 AM",,Vetusta FC,4850000
+631,Lluis López,"€280,000","8/12/19, 7:10 AM",,Camping Ballena Alegre,280000
+632,Nacho,"€511,000","8/12/19, 7:10 AM",,Camping Ballena Alegre,511000
+633,Joel Robles,"€2,160,001","8/12/19, 7:10 AM",,Camping Ballena Alegre,2160001
+634,Griezmann,"€14,220,020","8/12/19, 7:10 AM",,Santa Bàrbara,14220020
+635,Granero,"€1,704,800","8/11/19, 9:44 AM",Camping Ballena Alegre,,1704800
+636,Dmitrovic,"€3,304,800","8/11/19, 9:44 AM",Camping Ballena Alegre,,3304800
+637,Adrián López,"€1,319,200","8/11/19, 9:44 AM",Camping Ballena Alegre,,1319200
+638,Wu Lei,"€3,858,500","8/11/19, 9:44 AM",Camping Ballena Alegre,,3858500
+639,Maxi Gómez,"€9,160,000","8/11/19, 7:07 AM",,Camping Ballena Alegre,9160000
+640,Raúl Albiol,"€2,880,010","8/11/19, 7:07 AM",,Santa Bàrbara,2880010
+641,Fran Gámez,"€355,500","8/11/19, 7:07 AM",,U. B. Conquense,355500
+642,Savic,"€1,200,000","8/11/19, 7:07 AM",,Thomas Party,1200000
+643,Kang-in Lee,"€397,000","8/10/19, 8:48 AM",Camping Ballena Alegre,,397000
+644,David Costas,"€154,600","8/10/19, 8:48 AM",Santa Bàrbara,,154600
+645,Kondogbia,"€4,700,000","8/10/19, 7:11 AM",,Thomas Party,4700000
+646,Luis Suárez,"€14,000,000","8/10/19, 7:11 AM",,ValeronBalonDeOro,14000000
+647,Dmitrovic,"€3,040,005","8/9/19, 7:10 AM",,Camping Ballena Alegre,3040005
+648,Camarasa,"€419,300","8/8/19, 6:51 AM",U. B. Conquense,,419300
+649,Sergio Ramos,"€6,707,100","8/7/19, 9:58 AM",Camping Ballena Alegre,,6707100
+650,Guidetti,"€148,000","8/7/19, 8:22 AM",ValeronBalonDeOro,,148000
+651,Denis Suárez,"€4,890,000","8/7/19, 7:07 AM",,Vetusta FC,4890000
+652,Michel Herrero,"€2,050,000","8/7/19, 7:07 AM",,Thomas Party,2050000
+653,Melendo,"€3,670,000","8/6/19, 7:07 AM",,Vetusta FC,3670000
+654,James Rodríguez,"€3,617,300","8/5/19, 9:16 AM",Thomas Party,,3617300
+655,Felipe Monteiro,"€2,420,400","8/5/19, 9:16 AM",Thomas Party,,2420400
+656,David López,"€333,100","8/5/19, 8:23 AM",Santa Bàrbara,,333100
+657,Sergio Ramos,"€5,840,005","8/5/19, 7:09 AM",,Camping Ballena Alegre,5840005
+658,Francis,"€155,000","8/4/19, 8:21 AM",Pastafarianism United,,155000
+659,Ramis,"€632,670","8/4/19, 7:06 AM",,FC Datalona,632670
+660,Montoro,"€1,504,690","8/4/19, 7:06 AM",,FC Datalona,1504690
+661,Diego López,"€3,230,100","8/4/19, 7:06 AM",,Santa Bàrbara,3230100
+662,Aridane Hernández,"€441,000","8/3/19, 6:47 PM",Thomas Party,,441000
+663,Fede Valverde,"€336,900","8/3/19, 10:19 AM",FC Datalona,,336900
+664,Roque Mesa,"€597,800","8/3/19, 10:19 AM",FC Datalona,,597800
+665,Sergio Álvarez,"€156,500","8/3/19, 8:38 AM",Camping Ballena Alegre,,156500
+666,Recio,"€406,400","8/3/19, 8:38 AM",Camping Ballena Alegre,,406400
+667,Szymanowski,"€472,800","8/3/19, 7:45 AM",Pastafarianism United,,472800
+668,Sergio Álvarez Díaz,"€350,000","8/3/19, 7:06 AM",,U. B. Conquense,350000
+669,Edu Expósito,"€970,368","8/3/19, 7:06 AM",,Pastafarianism United,970368
+670,Enes Ünal,"€1,370,010","8/3/19, 7:06 AM",,Santa Bàrbara,1370010
+671,Malcom,"€201,800","8/2/19, 3:48 PM",Santa Bàrbara,,201800
+672,Gayà,"€6,750,005","8/2/19, 7:06 AM",,Camping Ballena Alegre,6750005
+673,Pedrosa,"€3,085,670","8/2/19, 7:06 AM",,Santa Bàrbara,3085670
+674,Rubén García,"€3,000,000","8/2/19, 7:06 AM",,ValeronBalonDeOro,3000000
+675,Ødegaard,"€3,880,000","8/2/19, 7:06 AM",,Vetusta FC,3880000
+676,Calero,"€3,345,810","8/2/19, 7:06 AM",,Santa Bàrbara,3345810
+677,Soldado,"€1,960,000","8/2/19, 7:06 AM",,FC Datalona,1960000
+678,Oyarzabal,"€9,500,000","8/2/19, 7:06 AM",,ValeronBalonDeOro,9500000
+679,Muniain,"€4,710,000","8/2/19, 7:06 AM",,Vetusta FC,4710000
+680,José Antonio Martínez,"€153,000","8/1/19, 9:34 AM",Santa Bàrbara,,153000
+681,Beauvue,"€152,400","8/1/19, 9:34 AM",Santa Bàrbara,,152400
+682,Matías Vargas,"€2,744,300","8/1/19, 7:13 AM",Camping Ballena Alegre,,2744300
+683,Anuar,"€175,000","8/1/19, 7:08 AM",,U. B. Conquense,175000
+684,Javi Muñoz,"€160,000","8/1/19, 7:08 AM",,U. B. Conquense,160000
+685,Nacho Martínez,"€4,050,000","8/1/19, 7:08 AM",,ValeronBalonDeOro,4050000
+686,Escalante,"€2,452,390","8/1/19, 7:08 AM",,FC Datalona,2452390
+687,Masip,"€4,570,000","8/1/19, 7:08 AM",,Camping Ballena Alegre,4570000
+688,Piatti,"€150,001","8/1/19, 7:08 AM",,Camping Ballena Alegre,150001
+689,Adrián López,"€630,001","8/1/19, 7:08 AM",,Camping Ballena Alegre,630001
+690,Aitor Fernández,"€1,594,700","7/31/19, 8:06 AM",FC Datalona,,1594700
+691,Rubén Duarte,"€870,000","7/31/19, 7:07 AM",,U. B. Conquense,870000
+692,Sergio Álvarez,"€150,100","7/31/19, 7:07 AM",,Camping Ballena Alegre,150100
+693,Koke,"€9,289,640","7/31/19, 7:07 AM",,Santa Bàrbara,9289640
+694,Frenkie de Jong,"€10,587,310","7/31/19, 7:07 AM",,Santa Bàrbara,10587310
+695,Ángel Rodríguez,"€4,023,820","7/31/19, 7:07 AM",,Santa Bàrbara,4023820
+696,Willian José,"€6,680,000","7/31/19, 7:07 AM",,Vetusta FC,6680000
+697,Alberto Moreno,"€1,990,009","7/31/19, 7:07 AM",,Pastafarianism United,1990009
+698,Coke,"€2,560,000","7/30/19, 7:17 AM",,Camping Ballena Alegre,2560000
+699,Matías Vargas,"€2,690,005","7/30/19, 7:17 AM",,Camping Ballena Alegre,2690005
+700,Lucas Pérez,"€3,350,000","7/30/19, 7:17 AM",,Vetusta FC,3350000
+701,Kroos,"€9,103,000","7/30/19, 7:17 AM",,ValeronBalonDeOro,9103000
+702,Todibo,"€152,000","7/30/19, 7:17 AM",,Thomas Party,152000
+703,Neto,"€530,810","7/30/19, 7:17 AM",,FC Datalona,530810
+704,Sergi Enrich,"€6,334,000","7/30/19, 7:17 AM",,ValeronBalonDeOro,6334000
+705,Diego Llorente,"€2,670,000","7/30/19, 7:17 AM",,Vetusta FC,2670000
+706,Pere Pons,"€2,787,440","7/29/19, 7:08 AM",,FC Datalona,2787440
+707,Raíllo,"€1,124,880","7/29/19, 7:08 AM",,FC Datalona,1124880
+708,Malcom,"€280,000","7/29/19, 7:08 AM",,Santa Bàrbara,280000
+709,Sergi Guardiola,"€1,850,000","7/29/19, 7:08 AM",,Santa Bàrbara,1850000
+710,Nolito,"€930,000","7/29/19, 7:08 AM",,Thomas Party,930000
+711,Sidnei,"€690,000","7/29/19, 7:08 AM",,Thomas Party,690000
+712,Rosales,"€2,749,000","7/28/19, 7:04 AM",,ValeronBalonDeOro,2749000
+713,Djené,"€7,850,000","7/28/19, 7:04 AM",,Thomas Party,7850000
+714,Siovas,"€5,750,000","7/28/19, 7:04 AM",,Camping Ballena Alegre,5750000
+715,Piccini,"€1,050,000","7/28/19, 7:04 AM",,Vetusta FC,1050000
+716,Bardhi,"€6,334,000","7/28/19, 7:04 AM",,ValeronBalonDeOro,6334000
+717,Varane,"€7,510,000","7/28/19, 7:04 AM",,Thomas Party,7510000
+718,Sergio León,"€2,640,000","7/28/19, 7:04 AM",,ValeronBalonDeOro,2640000
+719,Rubén Pérez,"€2,020,880","7/28/19, 7:04 AM",,FC Datalona,2020880
+720,Joan Sastre,"€930,000","7/27/19, 7:04 AM",,U. B. Conquense,930000
+721,Camarasa,"€920,000","7/27/19, 7:04 AM",,U. B. Conquense,920000
+722,Javi López,"€880,000","7/27/19, 7:04 AM",,U. B. Conquense,880000
+723,Williams,"€12,840,006","7/27/19, 7:04 AM",,Pastafarianism United,12840006
+724,Gerard Moreno,"€6,910,006","7/27/19, 7:04 AM",,Pastafarianism United,6910006
+725,Campaña,"€6,920,000","7/27/19, 7:04 AM",,Pastafarianism United,6920000
+726,Yuri,"€5,970,000","7/27/19, 7:04 AM",,Pastafarianism United,5970000
+727,Santi Mina,"€7,530,000","7/27/19, 7:04 AM",,Thomas Party,7530000
+728,Vitolo,"€756,500","7/27/19, 7:04 AM",,FC Datalona,756500
+729,Quique González,"€780,000","7/27/19, 7:04 AM",,ValeronBalonDeOro,780000
+730,David López,"€483,030","7/27/19, 7:04 AM",,Santa Bàrbara,483030
+731,Hernán Pérez,"€183,300","7/26/19, 8:06 AM",U. B. Conquense,,183300
+732,Garay,"€5,430,000","7/26/19, 7:06 AM",,Vetusta FC,5430000
+733,Pedraza,"€3,400,000","7/26/19, 7:06 AM",,Thomas Party,3400000
+734,Yeray,"€3,590,000","7/26/19, 7:06 AM",,Vetusta FC,3590000
+735,Riqui Puig,"€150,000","7/26/19, 7:06 AM",,U. B. Conquense,150000
+736,Sobrino,"€220,000","7/26/19, 7:06 AM",,U. B. Conquense,220000
+737,Ferran Torres,"€883,030","7/26/19, 7:06 AM",,Santa Bàrbara,883030
+738,Aridane Hernández,"€440,000","7/26/19, 7:06 AM",,Thomas Party,440000
+739,Cabaco,"€210,000","7/26/19, 7:06 AM",,Vetusta FC,210000
+740,Wass,"€4,100,000","7/26/19, 7:06 AM",,ValeronBalonDeOro,4100000
+741,Oier Olazábal,"€1,300,000","7/26/19, 7:06 AM",,Thomas Party,1300000
+742,Sangalli,"€142,500","7/25/19, 8:19 AM",U. B. Conquense,,142500
+743,Sergi Guardiola,"€1,774,400","7/25/19, 8:19 AM",U. B. Conquense,,1774400
+744,Saúl,"€7,520,000","7/25/19, 7:06 AM",,Camping Ballena Alegre,7520000
+745,Yokuslu,"€1,530,002","7/25/19, 7:06 AM",,Pastafarianism United,1530002
+746,Rubén,"€1,501,000","7/25/19, 7:06 AM",,ValeronBalonDeOro,1501000
+747,Germán Sánchez,"€1,310,003","7/25/19, 7:06 AM",,Pastafarianism United,1310003
+748,Rodrigo Ely,"€260,001","7/25/19, 7:06 AM",,Pastafarianism United,260001
+749,Ferland Mendy,"€5,058,060","7/25/19, 7:06 AM",,FC Datalona,5058060
+750,Damián Suárez,"€5,560,000","7/24/19, 7:06 AM",,Camping Ballena Alegre,5560000
+751,Hugo Mallo,"€5,655,110","7/24/19, 7:06 AM",,FC Datalona,5655110
+752,Wu Lei,"€5,730,000","7/24/19, 7:06 AM",,Camping Ballena Alegre,5730000
+753,Borja Iglesias,"€12,322,460","7/24/19, 7:06 AM",,FC Datalona,12322460
+754,Marc Roca,"€5,089,090","7/24/19, 7:06 AM",,Santa Bàrbara,5089090
+755,Diakhaby,"€276,000","7/24/19, 7:06 AM",,ValeronBalonDeOro,276000
+756,José Antonio Martínez,"€150,000","7/24/19, 7:06 AM",,Santa Bàrbara,150000
+757,De Blasis,"€170,000","7/24/19, 7:06 AM",,Santa Bàrbara,170000
+758,Manolo Reina,"€1,180,000","7/24/19, 7:06 AM",,Santa Bàrbara,1180000
+759,Felipe Monteiro,"€4,510,000","7/24/19, 7:06 AM",,Thomas Party,4510000
+760,Luuk de Jong,"€5,970,000","7/24/19, 7:06 AM",,Thomas Party,5970000
+761,Vesga,"€230,000","7/24/19, 7:06 AM",,ValeronBalonDeOro,230000
+762,Óliver Torres,"€3,000,000","7/23/19, 7:07 AM",,Thomas Party,3000000
+763,Messi,"€36,790,000","7/23/19, 7:07 AM",,U. B. Conquense,36790000
+764,Portu,"€6,230,000","7/23/19, 7:07 AM",,Thomas Party,6230000
+765,Zaldua,"€2,910,000","7/23/19, 7:07 AM",,U. B. Conquense,2910000
+766,William Carvalho,"€5,560,000","7/23/19, 7:07 AM",,Camping Ballena Alegre,5560000
+767,Capa,"€930,100","7/23/19, 7:07 AM",,Vetusta FC,930100
+768,Renan Lodi,"€3,200,000","7/23/19, 7:07 AM",,Thomas Party,3200000
+769,Vaclík,"€6,200,000","7/23/19, 7:07 AM",,Thomas Party,6200000
+770,Iago Aspas,"€18,620,003","7/22/19, 7:05 AM",,Pastafarianism United,18620003
+771,Recio,"€550,000","7/22/19, 7:05 AM",,Camping Ballena Alegre,550000
+772,Sandro,"€2,826,100","7/22/19, 7:05 AM",,Santa Bàrbara,2826100
+773,Fede Valverde,"€454,321","7/22/19, 7:05 AM",,FC Datalona,454321
+774,Beauvue,"€260,360","7/22/19, 7:05 AM",,Santa Bàrbara,260360
+775,Sangalli,"€150,000","7/22/19, 7:05 AM",,U. B. Conquense,150000
+776,Hernán Pérez,"€150,000","7/22/19, 7:05 AM",,U. B. Conquense,150000
+777,Ximo Navarro,"€2,614,990","7/21/19, 7:03 AM",,Santa Bàrbara,2614990
+778,Cillessen,"€6,820,023","7/21/19, 7:03 AM",,Pastafarianism United,6820023
+779,Aleña,"€1,792,440","7/21/19, 7:03 AM",,Santa Bàrbara,1792440
+780,Arthur,"€6,780,880","7/21/19, 7:03 AM",,Santa Bàrbara,6780880
+781,Szymanowski,"€319,001","7/21/19, 7:03 AM",,Pastafarianism United,319001
+782,Roque Mesa,"€700,508","7/21/19, 7:03 AM",,FC Datalona,700508
+783,Lucas Vázquez,"€1,123,456","7/21/19, 7:03 AM",,FC Datalona,1123456
+784,David Costas,"€709,500","7/21/19, 7:03 AM",,Santa Bàrbara,709500
+785,Mathías Olivera,"€380,000","7/20/19, 12:45 PM",Vetusta FC,U. B. Conquense,380000
+786,Orellana,"€6,500,005","7/20/19, 7:03 AM",,Camping Ballena Alegre,6500005
+787,Ekambi,"€5,520,005","7/20/19, 7:03 AM",,Camping Ballena Alegre,5520005
+788,Dembélé,"€5,500,759","7/20/19, 7:03 AM",,FC Datalona,5500759
+789,Sergi Roberto,"€5,200,528","7/20/19, 7:03 AM",,FC Datalona,5200528
+790,Ter Stegen,"€6,630,658","7/20/19, 7:03 AM",,FC Datalona,6630658
+791,Iturraspe,"€220,000","7/20/19, 7:03 AM",,Thomas Party,220000
+792,James Rodríguez,"€5,350,000","7/20/19, 7:03 AM",,Thomas Party,5350000
+793,Guidetti,"€221,000","7/20/19, 7:03 AM",,ValeronBalonDeOro,221000
+794,Francis,"€150,051","7/20/19, 7:03 AM",,Pastafarianism United,150051
+795,Lago Junior,"€2,990,000","7/19/19, 7:06 AM",,Vetusta FC,2990000
+796,Herrerín,"€2,099,000","7/19/19, 7:06 AM",,Vetusta FC,2099000
+797,Lucas Ocampos,"€4,150,001","7/19/19, 7:06 AM",,Vetusta FC,4150001
+798,Rodrigo,"€12,500,000","7/19/19, 7:06 AM",,U. B. Conquense,12500000
+799,Gameiro,"€4,299,804","7/19/19, 7:06 AM",,U. B. Conquense,4299804
+800,Portillo,"€1,280,000","7/19/19, 7:06 AM",,U. B. Conquense,1280000
+801,Pione Sisto,"€290,505","7/19/19, 7:06 AM",,Pastafarianism United,290505
+802,Odriozola,"€480,000","7/19/19, 7:06 AM",,U. B. Conquense,480000
+803,Granero,"€2,500,500","7/18/19, 7:05 AM",,Camping Ballena Alegre,2500500
+804,Kang-in Lee,"€320,100","7/18/19, 7:05 AM",,Camping Ballena Alegre,320100
+805,Mario Gaspar,"€660,100","7/18/19, 7:05 AM",,Camping Ballena Alegre,660100
+806,Vinícius,"€8,500,394","7/18/19, 7:05 AM",,FC Datalona,8500394
+807,Arbilla,"€610,022","7/18/19, 7:05 AM",,Pastafarianism United,610022
+808,Aleix Febas,"€270,001","7/18/19, 7:05 AM",,Vetusta FC,270001
+809,Mathías Olivera,"€180,000","7/18/19, 7:05 AM",,Vetusta FC,180000
+810,Barrenetxea,"€700,423","7/17/19, 7:06 AM",,FC Datalona,700423
+811,Fran Beltrán,"€500,000","7/17/19, 7:06 AM",,U. B. Conquense,500000
+812,Sergi Guardiola,"€1,750,010","7/17/19, 7:06 AM",,U. B. Conquense,1750010
+813,Salva Sevilla,"€2,000,000","7/17/19, 7:06 AM",,ValeronBalonDeOro,2000000
+814,Banega,"€4,500,000","7/17/19, 7:06 AM",,Camping Ballena Alegre,4500000
+815,Rubén Blanco,"€1,250,300","7/17/19, 7:06 AM",,U. B. Conquense,1250300
+816,Aitor Fernández,"€1,800,543","7/17/19, 7:06 AM",,FC Datalona,1800543
+817,Cáseres,"€170,000","7/17/19, 7:06 AM",,Vetusta FC,170000
