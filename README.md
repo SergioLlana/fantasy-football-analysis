@@ -13,7 +13,7 @@ The first step is scraping last season's information about players in the league
  - Number of cards.
  - Number of goals.
 
-In order to obtain a CSV, we should run the following command. Note that we are using Selenium with ChromeDriver, whose path must be added to _chrome_path_ in the _config.json_ file.
+In order to obtain a CSV, we should run the following command. Note that we are using Selenium with ChromeDriver, whose path must be added to _chrome_path_ in the _config.json_ file, along with the _email_ and _password_ required to log in to Biwenger.
 
 `python3 scrape_biwenger.py -t market -l 1 -p 1`
  - -t (--scraper_type) specifies whether we want to scrape the players in the market (_market_ option) or our rival's teams (_users_ option).
